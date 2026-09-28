@@ -1,0 +1,94 @@
+[
+  {
+    "id": "kost-001",
+    "slug": "kost-mewah-depok",
+    "title": "Kost Mewah Dekat UI Depok",
+    "gender": "putra",
+    "priceMonthly": 1700000,
+    "location": {
+      "city": "Depok",
+      "address": "Jl. Akses UI No. 45, Kelapa Dua",
+      "googleMapsUrl": "https://maps.google.com/?q=-6.3534,106.8381"
+    },
+    "owner": {
+      "name": "Bpk. Ahmad",
+      "whatsapp": "6281234567890"
+    },
+    "facilities": ["AC", "Wi-Fi", "Kamar Mandi Dalam", "Kasur Springbed", "Parkir Motor"],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "kost-002",
+    "slug": "kost-putri-bandung-itb",
+    "title": "Kost Putri Eksklusif Dekat ITB Bandung",
+    "gender": "putri",
+    "priceMonthly": 2200000,
+    "location": {
+      "city": "Bandung",
+      "address": "Jl. Ganesa No. 12, Tamansari",
+      "googleMapsUrl": "https://maps.google.com/?q=-6.8915,107.6107"
+    },
+    "owner": {
+      "name": "Ibu Siti",
+      "whatsapp": "6285678901234"
+    },
+    "facilities": ["AC", "Wi-Fi", "Kamar Mandi Dalam", "Kasur Springbed", "Lemari Pakaian", "Dapur Bersama", "Laundry"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "kost-003",
+    "slug": "kost-campur-jogja-ugm",
+    "title": "Kost Campur Strategis Dekat UGM Jogja",
+    "gender": "campur",
+    "priceMonthly": 1200000,
+    "location": {
+      "city": "Yogyakarta",
+      "address": "Jl. Kaliurang Km 5, Caturtunggal",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.7713,110.3776"
+    },
+    "owner": {
+      "name": "Bpk. Joko",
+      "whatsapp": "6282345678901"
+    },
+    "facilities": ["Wi-Fi", "Kamar Mandi Dalam", "Parkir Motor", "Dapur Bersama"],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1612320648220-f2608722fba3?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "kost-004",
+    "slug": "kost-putra-surabaya-its",
+    "title": "Kost Putra Modern Dekat ITS Surabaya",
+    "gender": "putra",
+    "priceMonthly": 1500000,
+    "location": {
+      "city": "Surabaya",
+      "address": "Jl. Teknik Kimia No. 8, Keputih",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.2811,112.7946"
+    },
+    "owner": {
+      "name": "Bpk. Rudi",
+      "whatsapp": "6287654321098"
+    },
+    "facilities": ["AC", "Wi-Fi", "Kamar Mandi Dalam", "Kasur Springbed", "Meja Belajar", "Parkir Motor"],
+    "images": [
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false
+  }
+]
