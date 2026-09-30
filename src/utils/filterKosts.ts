@@ -1,7 +1,7 @@
 import { Kost, FilterState } from '@/types/kost';
 
 /**
- * Memfilter array Kost berdasarkan search query, gender, rentang harga, dan fasilitas.
+ * Memfilter array Kost berdasarkan search query, gender, kampus terdekat, dan fasilitas.
  */
 export function filterKosts(kosts: Kost[], filters: FilterState): Kost[] {
   return kosts.filter((kost) => {
@@ -20,9 +20,11 @@ export function filterKosts(kosts: Kost[], filters: FilterState): Kost[] {
       return false;
     }
 
-    // Filter berdasarkan harga maksimum
-    if (filters.maxPrice > 0 && kost.priceMonthly > filters.maxPrice) {
-      return false;
+    // Filter berdasarkan kampus terdekat
+    if (filters.nearCampus && filters.nearCampus !== 'all') {
+      if (kost.nearCampus !== filters.nearCampus) {
+        return false;
+      }
     }
 
     // Filter berdasarkan fasilitas
@@ -42,7 +44,7 @@ export function filterKosts(kosts: Kost[], filters: FilterState): Kost[] {
  */
 export function createWhatsAppLink(ownerPhone: string, kostTitle: string): string {
   const message = encodeURIComponent(
-    `Halo, saya tertarik dengan "${kostTitle}" yang terdaftar di KostHub. Apakah unit masih tersedia? Terima kasih.`
+    `Halo, saya tertarik dengan "${kostTitle}" yang terdaftar di SemawKost. Apakah unit masih tersedia? Terima kasih.`
   );
   return `https://wa.me/${ownerPhone}?text=${message}`;
 }

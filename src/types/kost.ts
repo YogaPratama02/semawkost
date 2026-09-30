@@ -4,6 +4,7 @@ export interface Location {
   city: string;
   address: string;
   googleMapsUrl: string;
+  clusterName?: string;
 }
 
 export interface Owner {
@@ -22,11 +23,13 @@ export interface Kost {
   facilities: string[];
   images: string[];
   isFeatured?: boolean;
+  availableRooms: number;
+  nearCampus?: string;
 }
 
 export interface FilterState {
   searchQuery: string;
   gender: GenderCategory | 'all';
-  maxPrice: number;
+  nearCampus: string;
   facilities: string[];
 }
