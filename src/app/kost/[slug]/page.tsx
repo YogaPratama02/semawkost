@@ -25,7 +25,7 @@ export async function generateMetadata({
   if (!kost) return { title: 'Kost Tidak Ditemukan' };
 
   return {
-    title: `${kost.title} - SemawKost`,
+    title: `${kost.title} - SemawKos`,
     description: `${kost.title} di ${kost.location.city}. Fasilitas: ${kost.facilities.join(', ')}. Harga mulai dari Rp ${kost.priceMonthly.toLocaleString('id-ID')}/bulan.`,
   };
 }

@@ -44,7 +44,7 @@ export function filterKosts(kosts: Kost[], filters: FilterState): Kost[] {
  */
 export function createWhatsAppLink(ownerPhone: string, kostTitle: string): string {
   const message = encodeURIComponent(
-    `Halo, saya tertarik dengan "${kostTitle}" yang terdaftar di SemawKost. Apakah unit masih tersedia? Terima kasih.`
+    `Halo, saya tertarik dengan "${kostTitle}" yang terdaftar di SemawKos. Apakah unit masih tersedia? Terima kasih.`
   );
   return `https://wa.me/${ownerPhone}?text=${message}`;
 }

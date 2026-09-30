@@ -19,7 +19,7 @@ export default function Navbar() {
             </svg>
           </div>
           <span className="text-xl font-bold tracking-tight text-slate-800 dark:text-white">
-            Semaw<span className="text-brand-peach">Kost</span>
+            Semaw<span className="text-brand-peach">Kos</span>
           </span>
         </Link>
 

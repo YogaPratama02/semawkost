@@ -55,7 +55,7 @@ export default function PasangIklanPage() {
       campur: 'Campur',
     };
 
-    const message = `📋 *PENGAJUAN KOST BARU - SemawKost*
+    const message = `📋 *PENGAJUAN KOST BARU - SemawKos*
 
 🏠 *Nama Kost:* ${form.namaKost}
 📍 *Alamat:* ${form.alamat}, ${form.kota}
@@ -66,7 +66,7 @@ export default function PasangIklanPage() {
 👨‍💼 *Nama Pemilik:* ${form.namaPemilik}
 📱 *WhatsApp Pemilik:* ${form.whatsapp}
 
-_Dikirim melalui platform SemawKost_`;
+_Dikirim melalui platform SemawKos_`;
 
     const url = `https://wa.me/${ADMIN_WHATSAPP}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');

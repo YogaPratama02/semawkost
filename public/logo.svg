@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="100%" height="100%">
+  <!-- Ikon Bangunan dan Atap (Warna Tembaga) -->
+  <path d="M 80 90
+           L 200 10
+           L 320 90
+           L 245 90 L 245 60 L 225 60 L 225 90
+           L 210 90 L 210 35 L 190 35 L 190 90
+           L 175 90 L 175 55 L 155 55 L 155 90
+           Z"
+        stroke="#B97446" stroke-width="5" fill="none" stroke-linejoin="miter" stroke-miterlimit="10"/>
+
+  <!-- Teks SEMAWKOS (Diubah ke putih agar terlihat di navbar gelap) -->
+  <text x="200" y="135" font-family="Georgia, serif" font-weight="bold" font-size="36" fill="white" text-anchor="middle" letter-spacing="6">
+    SEMAWKOS
+  </text>
+
+  <!-- Subteks KOS EKSKLUSIF MALANG -->
+  <text x="200" y="160" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="white" text-anchor="middle" letter-spacing="4">
+    KOS EKSKLUSIF MALANG
+  </text>
+</svg>

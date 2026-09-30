@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "SemawKost - Cari Kost Impianmu",
+  title: "SemawKos - Cari Kost Impianmu",
   description:
     "Platform pencarian kost modern, cepat, dan terpercaya. Temukan kost idaman dekat kampus dan tempat kerja Anda dengan mudah.",
   keywords: ["kost", "sewa kost", "kost murah", "cari kost", "kost mahasiswa"],
@@ -33,7 +33,7 @@ export default function RootLayout({
             <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
               <div className="flex flex-col items-center justify-between gap-4 sm:flex-row">
                 <p className="text-sm text-slate-500 dark:text-gray-500">
-                  © {new Date().getFullYear()} SemawKost. Semua hak cipta dilindungi.
+                  © {new Date().getFullYear()} SemawKos. Semua hak cipta dilindungi.
                 </p>
                 <div className="flex gap-6">
                   <a href="#" className="text-sm text-slate-500 transition-colors hover:text-brand-peach dark:text-gray-500 dark:hover:text-brand-peach">
