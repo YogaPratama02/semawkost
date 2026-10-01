@@ -27,12 +27,11 @@ export function filterKosts(kosts: Kost[], filters: FilterState): Kost[] {
       }
     }
 
-    // Filter berdasarkan fasilitas
-    if (filters.facilities.length > 0) {
-      const hasAllFacilities = filters.facilities.every((facility) =>
-        kost.facilities.includes(facility)
-      );
-      if (!hasAllFacilities) return false;
+    // Filter berdasarkan perumahan / cluster
+    if (filters.clusterName && filters.clusterName !== 'all') {
+      if (kost.location.clusterName !== filters.clusterName) {
+        return false;
+      }
     }
 
     return true;

@@ -31,5 +31,5 @@ export interface FilterState {
   searchQuery: string;
   gender: GenderCategory | 'all';
   nearCampus: string;
-  facilities: string[];
+  clusterName: string | 'all';
 }

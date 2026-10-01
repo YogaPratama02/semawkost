@@ -1,2171 +1,2167 @@
 [
   {
     "id": "kost-001",
-    "slug": "kost-campur-strategis-di-raya-tlogomas",
-    "title": "Kost Campur Strategis di Raya Tlogomas",
+    "slug": "kost-nyaman-campur-area-uin",
+    "title": "Kost Nyaman Campur Area UIN",
     "gender": "campur",
-    "priceMonthly": 2350000,
+    "priceMonthly": 900000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Raya Tlogomas No. 54, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9262,112.6461",
-      "clusterName": "Dewandaru"
+      "address": "Jl. Sunan Kalijaga No. 84, Lowokwaru",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9130,112.5861",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
-      "name": "Ibu Ratna",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Nur",
+      "whatsapp": "6282395961146"
     },
     "facilities": [
+      "Kamar Mandi Dalam",
       "Parkir Mobil",
-      "Parkir Motor",
+      "Wi-Fi",
       "Akses 24 Jam"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-002",
+    "slug": "kost-campur-eksklusif-di-simpang-bogor",
+    "title": "Kost Campur Eksklusif di Simpang Bogor",
+    "gender": "campur",
+    "priceMonthly": 1300000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Simpang Bogor No. 80, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9839,112.6061",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Rina",
+      "whatsapp": "6282201784929"
+    },
+    "facilities": [
+      "AC",
+      "Wi-Fi",
+      "CCTV",
+      "Akses 24 Jam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 9,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-003",
+    "slug": "kost-minimalis-campur-area-polinema",
+    "title": "Kost Minimalis Campur Area Polinema",
+    "gender": "campur",
+    "priceMonthly": 1500000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sunan Kalijaga No. 77, Sumbersari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9433,112.6004",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Lestari",
+      "whatsapp": "6286796296405"
+    },
+    "facilities": [
+      "Lemari",
+      "Kasur Springbed",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
     "availableRooms": 7,
     "nearCampus": "POLINEMA"
   },
   {
-    "id": "kost-002",
-    "slug": "kost-nyaman-dekat-uin-dinoyo",
-    "title": "Kost Nyaman Dekat UIN Dinoyo",
-    "gender": "putri",
-    "priceMonthly": 1850000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. MT. Haryono No. 40, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9496,112.6433",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Bpk. Dwi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "AC",
-      "Kasur Springbed",
-      "Kamar Mandi Dalam",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 0,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-003",
-    "slug": "kost-putra-strategis-dekat-umm-malang",
-    "title": "Kost Putra Strategis Dekat UMM Malang",
-    "gender": "putra",
-    "priceMonthly": 2500000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Simpang Bogor No. 70, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9881,112.6144",
-      "clusterName": "Griya Shanta"
-    },
-    "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kasur Springbed",
-      "Akses 24 Jam",
-      "Lemari",
-      "Kamar Mandi Dalam",
-      "Wi-Fi",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 5,
-    "nearCampus": "UMM"
-  },
-  {
     "id": "kost-004",
-    "slug": "kost-campur-minimalis-dekat-uin-malang",
-    "title": "Kost Campur Minimalis Dekat UIN Malang",
-    "gender": "campur",
-    "priceMonthly": 1850000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Semarang No. 77, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9290,112.6305",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Parkir Motor",
-      "Wi-Fi",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 4,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-005",
-    "slug": "kost-premium-dekat-ub-penanggungan",
-    "title": "Kost Premium Dekat UB Penanggungan",
-    "gender": "putra",
-    "priceMonthly": 2400000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Candi Panggung No. 35, Penanggungan",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9286,112.6361",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Bpk. Eko",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Akses 24 Jam",
-      "Kamar Mandi Dalam",
-      "Wi-Fi",
-      "Dapur Bersama",
-      "Kasur Springbed",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 1,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-006",
-    "slug": "kost-nyaman-dekat-uin-tunjungsekar",
-    "title": "Kost Nyaman Dekat UIN Tunjungsekar",
-    "gender": "campur",
-    "priceMonthly": 2150000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Candi Panggung No. 44, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9631,112.5987",
-      "clusterName": "Griya Shanta"
-    },
-    "owner": {
-      "name": "Ibu Siti",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Parkir Mobil",
-      "Parkir Motor",
-      "Wi-Fi"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 5,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-007",
-    "slug": "kost-putra-murah-di-teluk-pelabuhan-ratu",
-    "title": "Kost Putra Murah di Teluk Pelabuhan Ratu",
-    "gender": "putra",
-    "priceMonthly": 1600000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Teluk Pelabuhan Ratu No. 8, Mojolangu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9366,112.6140",
-      "clusterName": "Tlogomas Estate"
-    },
-    "owner": {
-      "name": "Ibu Yuni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Wi-Fi",
-      "Kasur Springbed",
-      "AC",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 0,
-    "nearCampus": "UM"
-  },
-  {
-    "id": "kost-008",
-    "slug": "kost-putra-nyaman-dekat-umm-malang",
-    "title": "Kost Putra Nyaman Dekat UMM Malang",
-    "gender": "putra",
-    "priceMonthly": 1200000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 89, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9703,112.5841",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Ibu Nur",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Motor",
-      "Kasur Springbed",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 1,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-009",
-    "slug": "kost-minimalis-putri-area-polinema",
-    "title": "Kost Minimalis Putri Area Polinema",
+    "slug": "kost-nyaman-putri-area-polinema",
+    "title": "Kost Nyaman Putri Area Polinema",
     "gender": "putri",
-    "priceMonthly": 1150000,
+    "priceMonthly": 1700000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Raya Tlogomas No. 40, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9667,112.5954",
-      "clusterName": "Kertalingga"
+      "address": "Jl. Raya Langsep No. 82, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9518,112.5892",
+      "clusterName": "Graha Agung"
     },
     "owner": {
-      "name": "Ibu Suci",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Ratna",
+      "whatsapp": "6285976530683"
     },
     "facilities": [
-      "Parkir Mobil",
-      "Kasur Springbed",
-      "Meja Belajar",
+      "CCTV",
       "Parkir Motor",
-      "Kamar Mandi Dalam",
-      "Dapur Bersama"
+      "Kasur Springbed",
+      "AC",
+      "Akses 24 Jam"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
     ],
-    "isFeatured": false,
-    "availableRooms": 4,
+    "isFeatured": true,
+    "availableRooms": 2,
     "nearCampus": "POLINEMA"
   },
   {
-    "id": "kost-010",
-    "slug": "kost-asri-putri-area-uin",
-    "title": "Kost Asri Putri Area UIN",
-    "gender": "putri",
-    "priceMonthly": 1800000,
+    "id": "kost-005",
+    "slug": "kost-minimalis-dekat-polinema-mojolangu",
+    "title": "Kost Minimalis Dekat Polinema Mojolangu",
+    "gender": "campur",
+    "priceMonthly": 2350000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Gajayana No. 56, Sumbersari",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9479,112.6406",
-      "clusterName": "Perumahan Sawojajar"
+      "address": "Jl. Saxophon No. 52, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9543,112.6018",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
-      "name": "Ibu Dewi",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Siti",
+      "whatsapp": "6280406642057"
     },
     "facilities": [
-      "Akses 24 Jam",
-      "Wi-Fi",
       "Meja Belajar",
-      "Dapur Bersama",
-      "AC"
+      "Kamar Mandi Dalam",
+      "CCTV",
+      "Parkir Motor"
     ],
     "images": [
       "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
     ],
-    "isFeatured": true,
-    "availableRooms": 10,
-    "nearCampus": "UIN"
+    "isFeatured": false,
+    "availableRooms": 3,
+    "nearCampus": "POLINEMA"
   },
   {
-    "id": "kost-011",
-    "slug": "kost-putra-bersih-dekat-um-malang",
-    "title": "Kost Putra Bersih Dekat UM Malang",
+    "id": "kost-006",
+    "slug": "kost-putra-modern-di-raya-dieng",
+    "title": "Kost Putra Modern di Raya Dieng",
     "gender": "putra",
     "priceMonthly": 2250000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Veteran No. 34, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9543,112.5728",
-      "clusterName": "Permata Jingga"
+      "address": "Jl. Raya Dieng No. 63, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9738,112.6363",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
-      "name": "Ibu Yuni",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Dewi",
+      "whatsapp": "6288332578019"
     },
     "facilities": [
       "Akses 24 Jam",
       "Parkir Motor",
-      "Dapur Bersama",
-      "Meja Belajar"
+      "Lemari"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-007",
+    "slug": "kost-putri-asri-di-sigura-gura",
+    "title": "Kost Putri Asri di Sigura-gura",
+    "gender": "putri",
+    "priceMonthly": 1600000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sigura-gura No. 22, Sumbersari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9539,112.5817",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Rina",
+      "whatsapp": "6283371417998"
+    },
+    "facilities": [
+      "Meja Belajar",
+      "CCTV",
+      "Kamar Mandi Dalam",
+      "Kasur Springbed",
+      "Lemari"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
+    "availableRooms": 3,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-008",
+    "slug": "kost-minimalis-dekat-ub-dinoyo",
+    "title": "Kost Minimalis Dekat UB Dinoyo",
+    "gender": "putri",
+    "priceMonthly": 1250000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Raya Dieng No. 83, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9675,112.6183",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Nur",
+      "whatsapp": "6284653281843"
+    },
+    "facilities": [
+      "Parkir Motor",
+      "AC",
+      "Meja Belajar",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
     "availableRooms": 5,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-009",
+    "slug": "kost-putra-murah-tunjungsekar",
+    "title": "Kost Putra Murah Tunjungsekar",
+    "gender": "putra",
+    "priceMonthly": 1900000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Gajayana No. 27, Tunjungsekar",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9771,112.6120",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Agus",
+      "whatsapp": "6282326135672"
+    },
+    "facilities": [
+      "AC",
+      "CCTV",
+      "Wi-Fi",
+      "Lemari",
+      "Kamar Mandi Dalam",
+      "Kasur Springbed"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 4,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-010",
+    "slug": "kost-campur-asri-di-kertosentono",
+    "title": "Kost Campur Asri di Kertosentono",
+    "gender": "campur",
+    "priceMonthly": 2000000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kertosentono No. 20, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9775,112.6080",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Wahyu",
+      "whatsapp": "6288547587116"
+    },
+    "facilities": [
+      "Meja Belajar",
+      "Parkir Mobil",
+      "Akses 24 Jam",
+      "CCTV"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 8,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-011",
+    "slug": "kost-minimalis-campur-area-um",
+    "title": "Kost Minimalis Campur Area UM",
+    "gender": "campur",
+    "priceMonthly": 1300000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Soekarno Hatta No. 20, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9626,112.6030",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Dewi",
+      "whatsapp": "6284004327604"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "Parkir Motor",
+      "CCTV",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
     "nearCampus": "UM"
   },
   {
     "id": "kost-012",
-    "slug": "kost-putri-bersih-dekat-ub-malang",
-    "title": "Kost Putri Bersih Dekat UB Malang",
+    "slug": "kost-putri-asri-dekat-polinema-malang",
+    "title": "Kost Putri Asri Dekat Polinema Malang",
     "gender": "putri",
-    "priceMonthly": 1600000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Candi Panggung No. 64, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9851,112.6177",
-      "clusterName": "Perumahan Dieng"
-    },
-    "owner": {
-      "name": "Ibu Nur",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Kamar Mandi Dalam",
-      "Parkir Motor",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-013",
-    "slug": "kost-putra-nyaman-di-kerto-raharjo",
-    "title": "Kost Putra Nyaman di Kerto Raharjo",
-    "gender": "putra",
-    "priceMonthly": 2250000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kerto Raharjo No. 71, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9296,112.6243",
-      "clusterName": "Griya Shanta"
-    },
-    "owner": {
-      "name": "Bpk. Rudi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Wi-Fi",
-      "Akses 24 Jam",
-      "Kamar Mandi Dalam",
-      "AC",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 0,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-014",
-    "slug": "kost-putri-strategis-merjosari",
-    "title": "Kost Putri Strategis Merjosari",
-    "gender": "putri",
-    "priceMonthly": 2250000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 35, Merjosari",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9591,112.6271",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Wi-Fi",
-      "Kasur Springbed",
-      "Parkir Mobil",
-      "Lemari"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 9,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-015",
-    "slug": "kost-putra-asri-tlogomas",
-    "title": "Kost Putra Asri Tlogomas",
-    "gender": "putra",
-    "priceMonthly": 1550000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Simpang Bogor No. 91, Tlogomas",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9429,112.6406",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Ibu Ratna",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kasur Springbed",
-      "Kamar Mandi Dalam",
-      "Lemari",
-      "AC"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 0,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-016",
-    "slug": "kost-premium-dekat-ub-tulusrejo",
-    "title": "Kost Premium Dekat UB Tulusrejo",
-    "gender": "putra",
-    "priceMonthly": 2100000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Veteran No. 39, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9373,112.6066",
-      "clusterName": "Griya Shanta"
-    },
-    "owner": {
-      "name": "Bpk. Wahyu",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Akses 24 Jam",
-      "AC"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-017",
-    "slug": "kost-murah-campur-area-umm",
-    "title": "Kost Murah Campur Area UMM",
-    "gender": "campur",
-    "priceMonthly": 1950000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kalpataru No. 43, Tasikmadu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9212,112.6461",
-      "clusterName": "Dewandaru"
-    },
-    "owner": {
-      "name": "Bpk. Ahmad",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Kasur Springbed",
-      "CCTV",
-      "Parkir Motor"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 10,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-018",
-    "slug": "kost-putri-bersih-dekat-polinema-malang",
-    "title": "Kost Putri Bersih Dekat Polinema Malang",
-    "gender": "putri",
-    "priceMonthly": 750000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kerto Raharjo No. 52, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9157,112.5820",
-      "clusterName": "Sigura-gura Residence"
-    },
-    "owner": {
-      "name": "Bpk. Agus",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Akses 24 Jam",
-      "Dapur Bersama",
-      "Parkir Mobil",
-      "Parkir Motor",
-      "Lemari",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 3,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-019",
-    "slug": "kost-putra-modern-tunjungsekar",
-    "title": "Kost Putra Modern Tunjungsekar",
-    "gender": "putra",
-    "priceMonthly": 2150000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Gajayana No. 55, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9659,112.5750",
-      "clusterName": "Kertalingga"
-    },
-    "owner": {
-      "name": "Bpk. Rudi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Kasur Springbed",
-      "Akses 24 Jam",
-      "CCTV",
-      "Meja Belajar",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-020",
-    "slug": "kost-putra-asri-lowokwaru",
-    "title": "Kost Putra Asri Lowokwaru",
-    "gender": "putra",
-    "priceMonthly": 2200000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. MT. Haryono No. 17, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9416,112.5819",
-      "clusterName": "Perumahan Dieng"
-    },
-    "owner": {
-      "name": "Bpk. Deni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kasur Springbed",
-      "CCTV",
-      "Parkir Mobil"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 9,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-021",
-    "slug": "kost-putri-asri-di-teluk-pelabuhan-ratu",
-    "title": "Kost Putri Asri di Teluk Pelabuhan Ratu",
-    "gender": "putri",
-    "priceMonthly": 2450000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Teluk Pelabuhan Ratu No. 98, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9313,112.6247",
-      "clusterName": "Tlogomas Estate"
-    },
-    "owner": {
-      "name": "Ibu Siti",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Meja Belajar",
-      "Kamar Mandi Dalam",
-      "Akses 24 Jam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 8,
-    "nearCampus": "UM"
-  },
-  {
-    "id": "kost-022",
-    "slug": "kost-putri-modern-dinoyo",
-    "title": "Kost Putri Modern Dinoyo",
-    "gender": "putri",
-    "priceMonthly": 800000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Gajayana No. 29, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9509,112.6172",
-      "clusterName": "Dewandaru"
-    },
-    "owner": {
-      "name": "Bpk. Dwi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Wi-Fi",
-      "Meja Belajar",
-      "AC"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 4,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-023",
-    "slug": "kost-eksklusif-putri-area-ub",
-    "title": "Kost Eksklusif Putri Area UB",
-    "gender": "putri",
-    "priceMonthly": 1350000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Teluk Pelabuhan Ratu No. 65, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9418,112.5757",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Ibu Ani",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Lemari",
-      "Wi-Fi",
-      "Parkir Mobil"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 0,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-024",
-    "slug": "kost-putra-eksklusif-dekat-um-malang",
-    "title": "Kost Putra Eksklusif Dekat UM Malang",
-    "gender": "putra",
-    "priceMonthly": 1650000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Bunga Coklat No. 84, Mojolangu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9892,112.6056",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Bpk. Wahyu",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "CCTV",
-      "Kasur Springbed",
-      "Akses 24 Jam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 7,
-    "nearCampus": "UM"
-  },
-  {
-    "id": "kost-025",
-    "slug": "kost-luas-putri-area-ub",
-    "title": "Kost Luas Putri Area UB",
-    "gender": "putri",
-    "priceMonthly": 1900000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Saxophon No. 16, Penanggungan",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9884,112.6393",
-      "clusterName": "Permata Jingga"
-    },
-    "owner": {
-      "name": "Ibu Suci",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Motor",
-      "Kasur Springbed",
-      "Dapur Bersama",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-026",
-    "slug": "kost-putri-strategis-dekat-umm-malang",
-    "title": "Kost Putri Strategis Dekat UMM Malang",
-    "gender": "putri",
-    "priceMonthly": 2250000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Teluk Pelabuhan Ratu No. 68, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9586,112.6343",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Bpk. Dwi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Motor",
-      "AC",
-      "CCTV",
-      "Dapur Bersama",
-      "Wi-Fi"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 8,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-027",
-    "slug": "kost-bersih-putra-area-ub",
-    "title": "Kost Bersih Putra Area UB",
-    "gender": "putra",
-    "priceMonthly": 1100000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Sunan Kalijaga No. 24, Tasikmadu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9378,112.6364",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Ibu Siti",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Meja Belajar",
-      "Lemari",
-      "CCTV",
-      "Parkir Mobil",
-      "Akses 24 Jam",
-      "Parkir Motor"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 7,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-028",
-    "slug": "kost-bersih-dekat-uin-ketawanggede",
-    "title": "Kost Bersih Dekat UIN Ketawanggede",
-    "gender": "putra",
-    "priceMonthly": 2200000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 12, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9336,112.5757",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Ibu Siti",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Wi-Fi",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 1,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-029",
-    "slug": "kost-campur-nyaman-di-simpang-bogor",
-    "title": "Kost Campur Nyaman di Simpang Bogor",
-    "gender": "campur",
-    "priceMonthly": 1250000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Simpang Bogor No. 17, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9802,112.5754",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Bpk. Rudi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Lemari",
-      "Wi-Fi",
-      "Parkir Mobil",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 7,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-030",
-    "slug": "kost-minimalis-putri-area-ub",
-    "title": "Kost Minimalis Putri Area UB",
-    "gender": "putri",
-    "priceMonthly": 1100000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Sigura-gura No. 62, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9449,112.6002",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Bpk. Deni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kamar Mandi Dalam",
-      "Lemari",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-031",
-    "slug": "kost-putra-murah-dekat-ub-malang",
-    "title": "Kost Putra Murah Dekat UB Malang",
-    "gender": "putra",
-    "priceMonthly": 2400000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Saxophon No. 79, Jatimulyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9618,112.6486",
-      "clusterName": "Permata Jingga"
-    },
-    "owner": {
-      "name": "Ibu Yuni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "AC",
-      "Dapur Bersama",
-      "Wi-Fi",
-      "Kamar Mandi Dalam",
-      "Kasur Springbed"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 10,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-032",
-    "slug": "kost-putra-eksklusif-dekat-polinema-malang",
-    "title": "Kost Putra Eksklusif Dekat Polinema Malang",
-    "gender": "putra",
-    "priceMonthly": 1150000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kertosentono No. 83, Penanggungan",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9280,112.6348",
-      "clusterName": "Dewandaru"
-    },
-    "owner": {
-      "name": "Ibu Ani",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Wi-Fi",
-      "Kasur Springbed",
-      "Dapur Bersama",
-      "Parkir Motor"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 3,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-033",
-    "slug": "kost-nyaman-dekat-polinema-sumbersari",
-    "title": "Kost Nyaman Dekat Polinema Sumbersari",
-    "gender": "campur",
     "priceMonthly": 1450000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Gajayana No. 62, Sumbersari",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9607,112.6219",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Bpk. Wahyu",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kamar Mandi Dalam",
-      "CCTV",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 3,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-034",
-    "slug": "kost-campur-minimalis-di-semarang",
-    "title": "Kost Campur Minimalis di Semarang",
-    "gender": "campur",
-    "priceMonthly": 850000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Semarang No. 71, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9857,112.6184",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Ibu Dewi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Wi-Fi",
-      "Kamar Mandi Dalam",
-      "Kasur Springbed",
-      "Akses 24 Jam",
-      "Meja Belajar"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 7,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-035",
-    "slug": "kost-premium-putra-area-polinema",
-    "title": "Kost Premium Putra Area Polinema",
-    "gender": "putra",
-    "priceMonthly": 2000000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Simpang Bogor No. 89, Tlogomas",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9396,112.5871",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Bpk. Dwi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kasur Springbed",
-      "Kamar Mandi Dalam",
-      "Parkir Mobil"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 1,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-036",
-    "slug": "kost-modern-dekat-ub-ketawanggede",
-    "title": "Kost Modern Dekat UB Ketawanggede",
-    "gender": "putra",
-    "priceMonthly": 1900000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kertosentono No. 31, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9334,112.6084",
-      "clusterName": "Perumahan Dieng"
-    },
-    "owner": {
-      "name": "Bpk. Budi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "Wi-Fi",
-      "Parkir Mobil",
-      "Parkir Motor",
-      "Meja Belajar"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 10,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-037",
-    "slug": "kost-putri-bersih-tulusrejo",
-    "title": "Kost Putri Bersih Tulusrejo",
-    "gender": "putri",
-    "priceMonthly": 1050000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Teluk Pelabuhan Ratu No. 24, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9479,112.6444",
-      "clusterName": "Sigura-gura Residence"
-    },
-    "owner": {
-      "name": "Bpk. Deni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Parkir Motor",
-      "AC",
-      "Akses 24 Jam",
-      "Meja Belajar",
-      "Kasur Springbed"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 7,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-038",
-    "slug": "kost-putra-nyaman-mojolangu",
-    "title": "Kost Putra Nyaman Mojolangu",
-    "gender": "putra",
-    "priceMonthly": 1900000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 20, Mojolangu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9275,112.6274",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Bpk. Hendra",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Akses 24 Jam",
-      "AC",
-      "Kamar Mandi Dalam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 5,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-039",
-    "slug": "kost-luas-campur-area-polinema",
-    "title": "Kost Luas Campur Area Polinema",
-    "gender": "campur",
-    "priceMonthly": 2000000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Candi Panggung No. 36, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9754,112.5912",
-      "clusterName": "Tlogomas Estate"
-    },
-    "owner": {
-      "name": "Ibu Suci",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Lemari",
-      "Meja Belajar",
-      "Kasur Springbed",
-      "Kamar Mandi Dalam",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 3,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-040",
-    "slug": "kost-putri-murah-dekat-uin-malang",
-    "title": "Kost Putri Murah Dekat UIN Malang",
-    "gender": "putri",
-    "priceMonthly": 1050000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Candi Panggung No. 97, Mojolangu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9541,112.5862",
-      "clusterName": "Sigura-gura Residence"
-    },
-    "owner": {
-      "name": "Ibu Rina",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
-      "CCTV",
-      "Kamar Mandi Dalam",
-      "Meja Belajar"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 9,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-041",
-    "slug": "kost-asri-dekat-umm-jatimulyo",
-    "title": "Kost Asri Dekat UMM Jatimulyo",
-    "gender": "campur",
-    "priceMonthly": 800000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Veteran No. 83, Jatimulyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9273,112.6106",
-      "clusterName": "Griya Shanta"
-    },
-    "owner": {
-      "name": "Ibu Yuni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kamar Mandi Dalam",
-      "Kasur Springbed",
-      "Akses 24 Jam",
-      "CCTV",
-      "Lemari",
-      "Parkir Mobil"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-042",
-    "slug": "kost-putri-bersih-dekat-umm-malang",
-    "title": "Kost Putri Bersih Dekat UMM Malang",
-    "gender": "putri",
-    "priceMonthly": 1850000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Veteran No. 75, Jatimulyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9349,112.6280",
-      "clusterName": "Kertalingga"
-    },
-    "owner": {
-      "name": "Bpk. Budi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Motor",
-      "AC",
-      "Parkir Mobil",
-      "Kasur Springbed",
-      "Wi-Fi"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 1,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-043",
-    "slug": "kost-putra-murah-mojolangu",
-    "title": "Kost Putra Murah Mojolangu",
-    "gender": "putra",
-    "priceMonthly": 1950000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Sunan Kalijaga No. 39, Mojolangu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9488,112.6039",
-      "clusterName": "Kertalingga"
-    },
-    "owner": {
-      "name": "Bpk. Deni",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Lemari",
-      "Parkir Motor",
-      "CCTV",
-      "Dapur Bersama",
-      "AC"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 9,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-044",
-    "slug": "kost-asri-campur-area-ub",
-    "title": "Kost Asri Campur Area UB",
-    "gender": "campur",
-    "priceMonthly": 1650000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. MT. Haryono No. 7, Sumbersari",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9549,112.6309",
-      "clusterName": "Dewandaru"
-    },
-    "owner": {
-      "name": "Bpk. Eko",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Meja Belajar",
-      "CCTV",
-      "Kasur Springbed",
-      "Akses 24 Jam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 7,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-045",
-    "slug": "kost-campur-nyaman-tulusrejo",
-    "title": "Kost Campur Nyaman Tulusrejo",
-    "gender": "campur",
-    "priceMonthly": 2100000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kertosentono No. 18, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9776,112.6321",
-      "clusterName": "Araya"
+      "address": "Jl. Sunan Kalijaga No. 41, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9582,112.5897",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
       "name": "Bpk. Rudi",
-      "whatsapp": "6281311570549"
+      "whatsapp": "6286081886772"
     },
     "facilities": [
-      "Parkir Motor",
-      "Parkir Mobil",
-      "Lemari",
-      "Wi-Fi"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 7,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-046",
-    "slug": "kost-putri-eksklusif-dekat-umm-malang",
-    "title": "Kost Putri Eksklusif Dekat UMM Malang",
-    "gender": "putri",
-    "priceMonthly": 2250000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 94, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9781,112.5809",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Ibu Dewi",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Dapur Bersama",
-      "AC",
-      "Kasur Springbed"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 4,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-047",
-    "slug": "kost-minimalis-putri-area-polinema-2",
-    "title": "Kost Minimalis Putri Area Polinema",
-    "gender": "putri",
-    "priceMonthly": 950000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. MT. Haryono No. 73, Tasikmadu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9129,112.6311",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Bpk. Eko",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kasur Springbed",
-      "AC",
-      "Lemari",
-      "Wi-Fi",
       "Akses 24 Jam",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-048",
-    "slug": "kost-campur-bersih-di-kertosentono",
-    "title": "Kost Campur Bersih di Kertosentono",
-    "gender": "campur",
-    "priceMonthly": 2050000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kertosentono No. 58, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9388,112.6386",
-      "clusterName": "Kertalingga"
-    },
-    "owner": {
-      "name": "Ibu Ratna",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "AC",
+      "Dapur Bersama",
       "Wi-Fi",
-      "Lemari",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 8,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-049",
-    "slug": "kost-putri-eksklusif-sumbersari",
-    "title": "Kost Putri Eksklusif Sumbersari",
-    "gender": "putri",
-    "priceMonthly": 1100000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 72, Sumbersari",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9288,112.6257",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Bpk. Hendra",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Motor",
-      "Lemari",
-      "Meja Belajar",
-      "Kasur Springbed",
-      "Kamar Mandi Dalam"
+      "AC"
     ],
     "images": [
       "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
-    "availableRooms": 9,
-    "nearCampus": "UIN"
+    "availableRooms": 10,
+    "nearCampus": "POLINEMA"
   },
   {
-    "id": "kost-050",
-    "slug": "kost-putri-asri-penanggungan",
-    "title": "Kost Putri Asri Penanggungan",
-    "gender": "putri",
+    "id": "kost-013",
+    "slug": "kost-premium-dekat-um-penanggungan",
+    "title": "Kost Premium Dekat UM Penanggungan",
+    "gender": "campur",
     "priceMonthly": 1550000,
     "location": {
       "city": "Malang",
-      "address": "Jl. MT. Haryono No. 40, Penanggungan",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9623,112.6397",
-      "clusterName": "Griya Shanta"
+      "address": "Jl. Raya Langsep No. 48, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9325,112.6260",
+      "clusterName": "Puri Asthagina"
     },
     "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Dewi",
+      "whatsapp": "6282286286596"
     },
     "facilities": [
+      "Wi-Fi",
+      "Parkir Motor",
       "AC",
-      "Lemari",
-      "Kamar Mandi Dalam"
+      "Akses 24 Jam"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
     ],
-    "isFeatured": false,
-    "availableRooms": 5,
+    "isFeatured": true,
+    "availableRooms": 8,
     "nearCampus": "UM"
   },
   {
-    "id": "kost-051",
-    "slug": "kost-modern-dekat-uin-penanggungan",
-    "title": "Kost Modern Dekat UIN Penanggungan",
+    "id": "kost-014",
+    "slug": "kost-campur-nyaman-dekat-ub-malang",
+    "title": "Kost Campur Nyaman Dekat UB Malang",
     "gender": "campur",
-    "priceMonthly": 1650000,
+    "priceMonthly": 2400000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Veteran No. 56, Penanggungan",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9403,112.5867",
-      "clusterName": "Perumahan Sawojajar"
+      "address": "Jl. Simpang Bogor No. 82, Tlogomas",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9853,112.6180",
+      "clusterName": "Puri Asthagina"
     },
     "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
+      "name": "Bpk. Deni",
+      "whatsapp": "6286452639840"
     },
     "facilities": [
-      "Parkir Mobil",
-      "Akses 24 Jam",
+      "Dapur Bersama",
       "Parkir Motor",
-      "Lemari",
-      "Meja Belajar",
+      "AC",
+      "Wi-Fi",
+      "Meja Belajar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 9,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-015",
+    "slug": "kost-luas-dekat-umm-tlogomas",
+    "title": "Kost Luas Dekat UMM Tlogomas",
+    "gender": "campur",
+    "priceMonthly": 2500000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Bendungan Sutami No. 61, Tlogomas",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9641,112.5985",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Hendra",
+      "whatsapp": "6281520955497"
+    },
+    "facilities": [
+      "Kamar Mandi Dalam",
+      "Wi-Fi",
       "Kasur Springbed"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
     ],
-    "isFeatured": false,
-    "availableRooms": 3,
-    "nearCampus": "UIN"
+    "isFeatured": true,
+    "availableRooms": 8,
+    "nearCampus": "UMM"
   },
   {
-    "id": "kost-052",
-    "slug": "kost-putra-bersih-di-soekarno-hatta",
-    "title": "Kost Putra Bersih di Soekarno Hatta",
+    "id": "kost-016",
+    "slug": "kost-campur-luas-di-soekarno-hatta",
+    "title": "Kost Campur Luas di Soekarno Hatta",
+    "gender": "campur",
+    "priceMonthly": 1350000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Soekarno Hatta No. 8, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9146,112.6304",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Suci",
+      "whatsapp": "6286357037998"
+    },
+    "facilities": [
+      "Kamar Mandi Dalam",
+      "Wi-Fi",
+      "Dapur Bersama",
+      "CCTV",
+      "Akses 24 Jam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-017",
+    "slug": "kost-campur-strategis-lowokwaru",
+    "title": "Kost Campur Strategis Lowokwaru",
+    "gender": "campur",
+    "priceMonthly": 1050000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Bendungan Sutami No. 4, Lowokwaru",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9892,112.5759",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Bpk. Ahmad",
+      "whatsapp": "6282372252585"
+    },
+    "facilities": [
+      "Parkir Motor",
+      "Lemari",
+      "Meja Belajar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 7,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-018",
+    "slug": "kost-luas-putra-area-polinema",
+    "title": "Kost Luas Putra Area Polinema",
     "gender": "putra",
     "priceMonthly": 900000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Soekarno Hatta No. 33, Tlogomas",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9287,112.6448",
-      "clusterName": "Perumahan Dieng"
+      "address": "Jl. Simpang Bogor No. 58, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9155,112.6430",
+      "clusterName": "Graha Agung"
     },
     "owner": {
       "name": "Ibu Ani",
-      "whatsapp": "6281311570549"
+      "whatsapp": "6283484738253"
     },
     "facilities": [
-      "Lemari",
-      "AC",
-      "Parkir Mobil",
+      "Kamar Mandi Dalam",
+      "Akses 24 Jam",
+      "Parkir Motor",
+      "Wi-Fi",
+      "Parkir Mobil"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 5,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-019",
+    "slug": "kost-campur-nyaman-dekat-um-malang",
+    "title": "Kost Campur Nyaman Dekat UM Malang",
+    "gender": "campur",
+    "priceMonthly": 2050000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Gajayana No. 34, Tunjungsekar",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9644,112.5776",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Bpk. Dwi",
+      "whatsapp": "6285974714978"
+    },
+    "facilities": [
+      "CCTV",
       "Wi-Fi",
       "Akses 24 Jam"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
-    "availableRooms": 6,
-    "nearCampus": "UB"
+    "availableRooms": 3,
+    "nearCampus": "UM"
   },
   {
-    "id": "kost-053",
-    "slug": "kost-putra-bersih-lowokwaru",
-    "title": "Kost Putra Bersih Lowokwaru",
+    "id": "kost-020",
+    "slug": "kost-putra-modern-di-mayjen-haryono",
+    "title": "Kost Putra Modern di Mayjen Haryono",
     "gender": "putra",
-    "priceMonthly": 2350000,
+    "priceMonthly": 1400000,
     "location": {
       "city": "Malang",
-      "address": "Jl. MT. Haryono No. 48, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9180,112.6491",
-      "clusterName": "Dewandaru"
+      "address": "Jl. Mayjen Haryono No. 65, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9779,112.6294",
+      "clusterName": "Puri Asthagina"
     },
     "owner": {
-      "name": "Ibu Ratna",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Siti",
+      "whatsapp": "6283102854972"
     },
     "facilities": [
       "Wi-Fi",
-      "Kamar Mandi Dalam",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 4,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-054",
-    "slug": "kost-putri-murah-di-bendungan-sutami",
-    "title": "Kost Putri Murah di Bendungan Sutami",
-    "gender": "putri",
-    "priceMonthly": 2300000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Bendungan Sutami No. 23, Merjosari",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9832,112.5749",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Bpk. Agus",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Meja Belajar",
-      "CCTV",
+      "Kasur Springbed",
+      "Lemari",
       "Parkir Motor",
-      "Dapur Bersama"
+      "Akses 24 Jam"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
-    "availableRooms": 2,
+    "availableRooms": 10,
     "nearCampus": "UB"
   },
   {
-    "id": "kost-055",
-    "slug": "kost-premium-dekat-polinema-lowokwaru",
-    "title": "Kost Premium Dekat Polinema Lowokwaru",
-    "gender": "putri",
-    "priceMonthly": 2450000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kertosentono No. 42, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9676,112.6161",
-      "clusterName": "Perumahan Dieng"
-    },
-    "owner": {
-      "name": "Ibu Rina",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Meja Belajar",
-      "AC",
-      "Wi-Fi"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 9,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-056",
-    "slug": "kost-campur-modern-jatimulyo",
-    "title": "Kost Campur Modern Jatimulyo",
+    "id": "kost-021",
+    "slug": "kost-campur-eksklusif-lowokwaru",
+    "title": "Kost Campur Eksklusif Lowokwaru",
     "gender": "campur",
-    "priceMonthly": 1900000,
+    "priceMonthly": 2150000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Bendungan Sutami No. 99, Jatimulyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9525,112.5835",
-      "clusterName": "Tidar Residence"
+      "address": "Jl. Saxophon No. 3, Lowokwaru",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9852,112.6281",
+      "clusterName": "Puri Asthagina"
     },
     "owner": {
       "name": "Ibu Dewi",
-      "whatsapp": "6281311570549"
+      "whatsapp": "6283877221744"
     },
     "facilities": [
-      "Lemari",
       "Wi-Fi",
+      "Lemari",
       "Meja Belajar",
       "Kasur Springbed"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 4,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-057",
-    "slug": "kost-murah-putri-area-um",
-    "title": "Kost Murah Putri Area UM",
-    "gender": "putri",
-    "priceMonthly": 2350000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Kalpataru No. 13, Jatimulyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9196,112.5913",
-      "clusterName": "Perumahan Dieng"
-    },
-    "owner": {
-      "name": "Ibu Suci",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kasur Springbed",
-      "Parkir Mobil",
-      "Akses 24 Jam",
-      "Dapur Bersama",
-      "Lemari"
-    ],
-    "images": [
       "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
-    "availableRooms": 4,
+    "availableRooms": 9,
     "nearCampus": "UM"
   },
   {
-    "id": "kost-058",
-    "slug": "kost-campur-modern-lowokwaru",
-    "title": "Kost Campur Modern Lowokwaru",
-    "gender": "campur",
-    "priceMonthly": 1550000,
+    "id": "kost-022",
+    "slug": "kost-murah-putra-area-um",
+    "title": "Kost Murah Putra Area UM",
+    "gender": "putra",
+    "priceMonthly": 2350000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Kerto Raharjo No. 30, Lowokwaru",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9130,112.5992",
-      "clusterName": "Griya Shanta"
+      "address": "Jl. Kerto Raharjo No. 69, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9194,112.5917",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
-      "name": "Bpk. Agus",
-      "whatsapp": "6281311570549"
+      "name": "Bpk. Joko",
+      "whatsapp": "6287932954081"
     },
     "facilities": [
-      "Kamar Mandi Dalam",
-      "CCTV",
-      "Kasur Springbed",
+      "Parkir Mobil",
+      "AC",
+      "Akses 24 Jam",
+      "Wi-Fi",
+      "CCTV"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 6,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-023",
+    "slug": "kost-putra-nyaman-penanggungan",
+    "title": "Kost Putra Nyaman Penanggungan",
+    "gender": "putra",
+    "priceMonthly": 900000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Simpang Bogor No. 72, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9846,112.6491",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Suci",
+      "whatsapp": "6289783312570"
+    },
+    "facilities": [
+      "Akses 24 Jam",
+      "AC",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 1,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-024",
+    "slug": "kost-putra-asri-dekat-ub-malang",
+    "title": "Kost Putra Asri Dekat UB Malang",
+    "gender": "putra",
+    "priceMonthly": 2150000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Mayjen Haryono No. 8, Tasikmadu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9826,112.5868",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Ratna",
+      "whatsapp": "6281579346225"
+    },
+    "facilities": [
+      "Dapur Bersama",
+      "Meja Belajar",
       "Lemari",
-      "Dapur Bersama"
+      "Parkir Mobil",
+      "Kasur Springbed",
+      "AC"
     ],
     "images": [
       "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
     ],
     "isFeatured": true,
+    "availableRooms": 4,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-025",
+    "slug": "kost-putri-premium-jatimulyo",
+    "title": "Kost Putri Premium Jatimulyo",
+    "gender": "putri",
+    "priceMonthly": 1050000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kertosentono No. 42, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9575,112.6492",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Ahmad",
+      "whatsapp": "6287397789814"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "Lemari",
+      "Meja Belajar",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
     "availableRooms": 10,
     "nearCampus": "UM"
   },
   {
-    "id": "kost-059",
-    "slug": "kost-campur-nyaman-di-raya-langsep",
-    "title": "Kost Campur Nyaman di Raya Langsep",
-    "gender": "campur",
-    "priceMonthly": 1550000,
+    "id": "kost-026",
+    "slug": "kost-putra-luas-di-kertosentono",
+    "title": "Kost Putra Luas di Kertosentono",
+    "gender": "putra",
+    "priceMonthly": 850000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Raya Langsep No. 85, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9704,112.6182",
-      "clusterName": "Sigura-gura Residence"
+      "address": "Jl. Kertosentono No. 22, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9488,112.6164",
+      "clusterName": "Puri Asthagina"
     },
     "owner": {
-      "name": "Ibu Rina",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Wati",
+      "whatsapp": "6283930495767"
     },
     "facilities": [
-      "AC",
       "Kasur Springbed",
-      "CCTV",
-      "Meja Belajar",
-      "Lemari",
-      "Dapur Bersama"
+      "Dapur Bersama",
+      "AC"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
     "availableRooms": 3,
     "nearCampus": "POLINEMA"
   },
   {
-    "id": "kost-060",
-    "slug": "kost-putri-strategis-dekat-polinema-malang",
-    "title": "Kost Putri Strategis Dekat Polinema Malang",
-    "gender": "putri",
-    "priceMonthly": 1450000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Semarang No. 72, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9301,112.5942",
-      "clusterName": "Kertalingga"
-    },
-    "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kamar Mandi Dalam",
-      "Parkir Mobil",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 2,
-    "nearCampus": "POLINEMA"
-  },
-  {
-    "id": "kost-061",
-    "slug": "kost-murah-putri-area-ub",
-    "title": "Kost Murah Putri Area UB",
-    "gender": "putri",
-    "priceMonthly": 950000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Tlogomas No. 18, Tasikmadu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9326,112.6343",
-      "clusterName": "Kertalingga"
-    },
-    "owner": {
-      "name": "Bpk. Eko",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Dapur Bersama",
-      "Kasur Springbed",
-      "Wi-Fi",
-      "AC",
-      "Kamar Mandi Dalam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 4,
-    "nearCampus": "UB"
-  },
-  {
-    "id": "kost-062",
-    "slug": "kost-putra-eksklusif-tlogomas",
-    "title": "Kost Putra Eksklusif Tlogomas",
-    "gender": "putra",
-    "priceMonthly": 1450000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Raya Langsep No. 95, Tlogomas",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9497,112.6087",
-      "clusterName": "Permata Jingga"
-    },
-    "owner": {
-      "name": "Bpk. Wahyu",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kamar Mandi Dalam",
-      "Parkir Motor",
-      "Wi-Fi",
-      "CCTV"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 10,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-063",
-    "slug": "kost-campur-murah-ketawanggede",
-    "title": "Kost Campur Murah Ketawanggede",
+    "id": "kost-027",
+    "slug": "kost-asri-campur-area-umm",
+    "title": "Kost Asri Campur Area UMM",
     "gender": "campur",
-    "priceMonthly": 1350000,
+    "priceMonthly": 1650000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Kertosentono No. 53, Ketawanggede",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9493,112.5714",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Bpk. Wahyu",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Mobil",
-      "Meja Belajar",
-      "Akses 24 Jam",
-      "AC",
-      "Lemari"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": true,
-    "availableRooms": 7,
-    "nearCampus": "UMM"
-  },
-  {
-    "id": "kost-064",
-    "slug": "kost-strategis-putra-area-uin",
-    "title": "Kost Strategis Putra Area UIN",
-    "gender": "putra",
-    "priceMonthly": 1150000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Candi Panggung No. 10, Tasikmadu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9747,112.6372",
-      "clusterName": "Tidar Residence"
-    },
-    "owner": {
-      "name": "Ibu Suci",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Kamar Mandi Dalam",
-      "Parkir Mobil",
-      "Dapur Bersama"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 2,
-    "nearCampus": "UIN"
-  },
-  {
-    "id": "kost-065",
-    "slug": "kost-putri-bersih-dekat-um-malang",
-    "title": "Kost Putri Bersih Dekat UM Malang",
-    "gender": "putri",
-    "priceMonthly": 2050000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Semarang No. 96, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9725,112.5819",
-      "clusterName": "Perumahan Sawojajar"
-    },
-    "owner": {
-      "name": "Bpk. Wahyu",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Meja Belajar",
-      "AC",
-      "Kasur Springbed",
-      "Wi-Fi",
-      "Akses 24 Jam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 1,
-    "nearCampus": "UM"
-  },
-  {
-    "id": "kost-066",
-    "slug": "kost-bersih-putri-area-um",
-    "title": "Kost Bersih Putri Area UM",
-    "gender": "putri",
-    "priceMonthly": 2500000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. Bunga Coklat No. 29, Penanggungan",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9210,112.5832",
-      "clusterName": "Araya"
-    },
-    "owner": {
-      "name": "Ibu Ratna",
-      "whatsapp": "6281311570549"
-    },
-    "facilities": [
-      "Parkir Motor",
-      "Parkir Mobil",
-      "Kamar Mandi Dalam",
-      "Kasur Springbed",
-      "Akses 24 Jam"
-    ],
-    "images": [
-      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
-    ],
-    "isFeatured": false,
-    "availableRooms": 1,
-    "nearCampus": "UM"
-  },
-  {
-    "id": "kost-067",
-    "slug": "kost-putra-minimalis-tulusrejo",
-    "title": "Kost Putra Minimalis Tulusrejo",
-    "gender": "putra",
-    "priceMonthly": 1200000,
-    "location": {
-      "city": "Malang",
-      "address": "Jl. MT. Haryono No. 45, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9204,112.6453",
-      "clusterName": "Dewandaru"
+      "address": "Jl. Sigura-gura No. 59, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9525,112.6267",
+      "clusterName": "Puri Asthagina"
     },
     "owner": {
       "name": "Bpk. Budi",
-      "whatsapp": "6281311570549"
+      "whatsapp": "6281868354515"
     },
     "facilities": [
-      "Wi-Fi",
+      "Parkir Mobil",
+      "Kasur Springbed",
       "Akses 24 Jam",
-      "CCTV",
-      "Meja Belajar",
-      "Kamar Mandi Dalam",
-      "Kasur Springbed"
+      "AC",
+      "Dapur Bersama"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
     ],
-    "isFeatured": true,
+    "isFeatured": false,
     "availableRooms": 8,
-    "nearCampus": "UM"
+    "nearCampus": "UMM"
   },
   {
-    "id": "kost-068",
-    "slug": "kost-strategis-campur-area-ub",
-    "title": "Kost Strategis Campur Area UB",
-    "gender": "campur",
-    "priceMonthly": 1000000,
+    "id": "kost-028",
+    "slug": "kost-putra-asri-mojolangu",
+    "title": "Kost Putra Asri Mojolangu",
+    "gender": "putra",
+    "priceMonthly": 1100000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Raya Langsep No. 58, Dinoyo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9137,112.6487",
-      "clusterName": "Araya"
+      "address": "Jl. Kalpataru No. 96, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9256,112.6318",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
-      "name": "Ibu Lestari",
-      "whatsapp": "6281311570549"
+      "name": "Ibu Ratna",
+      "whatsapp": "6281583682136"
     },
     "facilities": [
-      "Kamar Mandi Dalam",
-      "Wi-Fi",
+      "Kasur Springbed",
       "Lemari",
-      "Parkir Mobil",
-      "Parkir Motor",
       "CCTV"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 10,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-029",
+    "slug": "kost-campur-strategis-di-veteran",
+    "title": "Kost Campur Strategis di Veteran",
+    "gender": "campur",
+    "priceMonthly": 2400000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Veteran No. 59, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9521,112.6206",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Dwi",
+      "whatsapp": "6286754833428"
+    },
+    "facilities": [
+      "Meja Belajar",
+      "Parkir Motor",
+      "Lemari",
+      "Dapur Bersama",
+      "Kasur Springbed",
+      "CCTV"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
     "availableRooms": 6,
     "nearCampus": "UB"
   },
   {
-    "id": "kost-069",
-    "slug": "kost-strategis-campur-area-ub-2",
-    "title": "Kost Strategis Campur Area UB",
-    "gender": "campur",
-    "priceMonthly": 1100000,
+    "id": "kost-030",
+    "slug": "kost-putra-murah-dekat-uin-malang",
+    "title": "Kost Putra Murah Dekat UIN Malang",
+    "gender": "putra",
+    "priceMonthly": 1550000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Raya Langsep No. 22, Tasikmadu",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9469,112.5962",
-      "clusterName": "Permata Jingga"
+      "address": "Jl. Veteran No. 4, Tunjungsekar",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9219,112.6134",
+      "clusterName": "Graha Agung"
     },
     "owner": {
       "name": "Bpk. Joko",
-      "whatsapp": "6281311570549"
+      "whatsapp": "6285042574838"
     },
     "facilities": [
       "Parkir Motor",
-      "Lemari",
-      "Dapur Bersama",
+      "Parkir Mobil",
+      "Kasur Springbed",
       "Meja Belajar",
-      "Kasur Springbed"
+      "Dapur Bersama",
+      "Kamar Mandi Dalam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 6,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-031",
+    "slug": "kost-modern-dekat-polinema-mojolangu",
+    "title": "Kost Modern Dekat Polinema Mojolangu",
+    "gender": "putra",
+    "priceMonthly": 1450000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Veteran No. 15, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9104,112.6406",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Wahyu",
+      "whatsapp": "6285347535910"
+    },
+    "facilities": [
+      "CCTV",
+      "Kamar Mandi Dalam",
+      "Parkir Motor"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-032",
+    "slug": "kost-premium-dekat-polinema-dinoyo",
+    "title": "Kost Premium Dekat Polinema Dinoyo",
+    "gender": "putri",
+    "priceMonthly": 900000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kertosentono No. 50, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9606,112.5700",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Deni",
+      "whatsapp": "6286974670236"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "Dapur Bersama",
+      "Parkir Motor",
+      "Kamar Mandi Dalam",
+      "Parkir Mobil"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-033",
+    "slug": "kost-putra-strategis-di-sigura-gura",
+    "title": "Kost Putra Strategis di Sigura-gura",
+    "gender": "putra",
+    "priceMonthly": 1700000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sigura-gura No. 28, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9632,112.6113",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Wati",
+      "whatsapp": "6283956695216"
+    },
+    "facilities": [
+      "Kamar Mandi Dalam",
+      "Parkir Motor",
+      "CCTV",
+      "AC",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-034",
+    "slug": "kost-eksklusif-putra-area-uin",
+    "title": "Kost Eksklusif Putra Area UIN",
+    "gender": "putra",
+    "priceMonthly": 2000000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Saxophon No. 45, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9125,112.5809",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Ani",
+      "whatsapp": "6281915359677"
+    },
+    "facilities": [
+      "Meja Belajar",
+      "Wi-Fi",
+      "Dapur Bersama",
+      "AC",
+      "Parkir Mobil"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-035",
+    "slug": "kost-putri-asri-di-teluk-pelabuhan-ratu",
+    "title": "Kost Putri Asri di Teluk Pelabuhan Ratu",
+    "gender": "putri",
+    "priceMonthly": 2350000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Teluk Pelabuhan Ratu No. 66, Merjosari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9683,112.5847",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Ratna",
+      "whatsapp": "6286908632329"
+    },
+    "facilities": [
+      "Akses 24 Jam",
+      "AC",
+      "Wi-Fi",
+      "Lemari",
+      "Meja Belajar",
+      "Dapur Bersama"
     ],
     "images": [
       "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-036",
+    "slug": "kost-luas-putri-area-polinema",
+    "title": "Kost Luas Putri Area Polinema",
+    "gender": "putri",
+    "priceMonthly": 1650000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. MT. Haryono No. 53, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9614,112.6449",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Wati",
+      "whatsapp": "6286954126829"
+    },
+    "facilities": [
+      "Parkir Mobil",
+      "Meja Belajar",
+      "Kasur Springbed",
+      "Akses 24 Jam",
+      "Kamar Mandi Dalam",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 1,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-037",
+    "slug": "kost-putri-strategis-jatimulyo",
+    "title": "Kost Putri Strategis Jatimulyo",
+    "gender": "putri",
+    "priceMonthly": 700000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Semarang No. 54, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9164,112.6274",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Dwi",
+      "whatsapp": "6288103748408"
+    },
+    "facilities": [
+      "CCTV",
+      "Kamar Mandi Dalam",
+      "Dapur Bersama",
+      "Wi-Fi",
+      "Parkir Motor",
+      "AC"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 1,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-038",
+    "slug": "kost-campur-nyaman-dekat-umm-malang",
+    "title": "Kost Campur Nyaman Dekat UMM Malang",
+    "gender": "campur",
+    "priceMonthly": 1200000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Raya Dieng No. 12, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9898,112.6050",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Dwi",
+      "whatsapp": "6280656836802"
+    },
+    "facilities": [
+      "Dapur Bersama",
+      "Kasur Springbed",
+      "CCTV"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 3,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-039",
+    "slug": "kost-putra-strategis-dekat-ub-malang",
+    "title": "Kost Putra Strategis Dekat UB Malang",
+    "gender": "putra",
+    "priceMonthly": 2500000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Saxophon No. 80, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9802,112.5928",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Hendra",
+      "whatsapp": "6287393985297"
+    },
+    "facilities": [
+      "CCTV",
+      "Akses 24 Jam",
+      "Dapur Bersama",
+      "Parkir Mobil",
+      "Parkir Motor"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 9,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-040",
+    "slug": "kost-putra-minimalis-dekat-uin-malang",
+    "title": "Kost Putra Minimalis Dekat UIN Malang",
+    "gender": "putra",
+    "priceMonthly": 1450000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Bunga Coklat No. 13, Tasikmadu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9713,112.6430",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Deni",
+      "whatsapp": "6283486311147"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "Kamar Mandi Dalam",
+      "Wi-Fi",
+      "Dapur Bersama",
+      "Parkir Motor",
+      "CCTV"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-041",
+    "slug": "kost-campur-strategis-dekat-um-malang",
+    "title": "Kost Campur Strategis Dekat UM Malang",
+    "gender": "campur",
+    "priceMonthly": 2000000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Saxophon No. 51, Sumbersari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9223,112.5777",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Rina",
+      "whatsapp": "6287288897780"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "CCTV",
+      "Parkir Motor",
+      "AC"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 10,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-042",
+    "slug": "kost-strategis-dekat-um-tunjungsekar",
+    "title": "Kost Strategis Dekat UM Tunjungsekar",
+    "gender": "campur",
+    "priceMonthly": 2350000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Semarang No. 48, Tunjungsekar",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9427,112.5993",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Lestari",
+      "whatsapp": "6282613497186"
+    },
+    "facilities": [
+      "Dapur Bersama",
+      "Parkir Mobil",
+      "Meja Belajar",
+      "Akses 24 Jam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 8,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-043",
+    "slug": "kost-premium-dekat-uin-dinoyo",
+    "title": "Kost Premium Dekat UIN Dinoyo",
+    "gender": "campur",
+    "priceMonthly": 1950000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kertosentono No. 14, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9185,112.6145",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Wati",
+      "whatsapp": "6281518936434"
+    },
+    "facilities": [
+      "Wi-Fi",
+      "Lemari",
+      "Meja Belajar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 5,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-044",
+    "slug": "kost-putri-nyaman-dekat-polinema-malang",
+    "title": "Kost Putri Nyaman Dekat Polinema Malang",
+    "gender": "putri",
+    "priceMonthly": 1400000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Saxophon No. 11, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9333,112.6116",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Nur",
+      "whatsapp": "6288956535477"
+    },
+    "facilities": [
+      "CCTV",
+      "AC",
+      "Wi-Fi",
+      "Kamar Mandi Dalam",
+      "Parkir Mobil",
+      "Lemari"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 1,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-045",
+    "slug": "kost-putra-murah-dinoyo",
+    "title": "Kost Putra Murah Dinoyo",
+    "gender": "putra",
+    "priceMonthly": 1450000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Candi Panggung No. 49, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9441,112.6416",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Lestari",
+      "whatsapp": "6283305062071"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "CCTV",
+      "Lemari"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 3,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-046",
+    "slug": "kost-putri-modern-di-bunga-coklat",
+    "title": "Kost Putri Modern di Bunga Coklat",
+    "gender": "putri",
+    "priceMonthly": 1750000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Bunga Coklat No. 53, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9212,112.5814",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Lestari",
+      "whatsapp": "6284287296243"
+    },
+    "facilities": [
+      "AC",
+      "Wi-Fi",
+      "Parkir Mobil",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Kamar Mandi Dalam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 10,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-047",
+    "slug": "kost-minimalis-campur-area-polinema-2",
+    "title": "Kost Minimalis Campur Area Polinema",
+    "gender": "campur",
+    "priceMonthly": 1150000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Soekarno Hatta No. 78, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9186,112.6184",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Ani",
+      "whatsapp": "6287521755860"
+    },
+    "facilities": [
+      "AC",
+      "Dapur Bersama",
+      "Kasur Springbed",
+      "Parkir Motor"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 1,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-048",
+    "slug": "kost-eksklusif-putri-area-ub",
+    "title": "Kost Eksklusif Putri Area UB",
+    "gender": "putri",
+    "priceMonthly": 1050000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kalpataru No. 11, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9688,112.5850",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Bpk. Hendra",
+      "whatsapp": "6288387162819"
+    },
+    "facilities": [
+      "Parkir Motor",
+      "Kamar Mandi Dalam",
+      "Meja Belajar",
+      "Parkir Mobil",
+      "Lemari",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
     "availableRooms": 0,
     "nearCampus": "UB"
   },
   {
-    "id": "kost-070",
-    "slug": "kost-premium-putra-area-polinema-2",
-    "title": "Kost Premium Putra Area Polinema",
+    "id": "kost-049",
+    "slug": "kost-asri-dekat-uin-dinoyo",
+    "title": "Kost Asri Dekat UIN Dinoyo",
     "gender": "putra",
-    "priceMonthly": 950000,
+    "priceMonthly": 1650000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Saxophon No. 56, Tulusrejo",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9642,112.6296",
-      "clusterName": "Tlogomas Estate"
+      "address": "Jl. Sunan Kalijaga No. 69, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9408,112.5713",
+      "clusterName": "Myrra Residence"
     },
     "owner": {
-      "name": "Bpk. Deni",
-      "whatsapp": "6281311570549"
+      "name": "Bpk. Eko",
+      "whatsapp": "6287449758060"
+    },
+    "facilities": [
+      "Parkir Mobil",
+      "Kasur Springbed",
+      "Akses 24 Jam",
+      "Kamar Mandi Dalam",
+      "Lemari"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 6,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-050",
+    "slug": "kost-nyaman-dekat-ub-tunjungsekar",
+    "title": "Kost Nyaman Dekat UB Tunjungsekar",
+    "gender": "putri",
+    "priceMonthly": 1800000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sunan Kalijaga No. 14, Tunjungsekar",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9113,112.6069",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Ahmad",
+      "whatsapp": "6289353331597"
+    },
+    "facilities": [
+      "Parkir Mobil",
+      "Wi-Fi",
+      "AC"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 5,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-051",
+    "slug": "kost-murah-putra-area-uin",
+    "title": "Kost Murah Putra Area UIN",
+    "gender": "putra",
+    "priceMonthly": 1150000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Raya Langsep No. 24, Merjosari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9431,112.6197",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Dewi",
+      "whatsapp": "6287738586321"
     },
     "facilities": [
       "CCTV",
+      "Wi-Fi",
+      "Akses 24 Jam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 6,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-052",
+    "slug": "kost-asri-campur-area-ub",
+    "title": "Kost Asri Campur Area UB",
+    "gender": "campur",
+    "priceMonthly": 1600000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Gajayana No. 71, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9365,112.5901",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Hendra",
+      "whatsapp": "6286500056000"
+    },
+    "facilities": [
       "Kasur Springbed",
+      "AC",
+      "Dapur Bersama",
+      "Kamar Mandi Dalam",
+      "Parkir Mobil",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 7,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-053",
+    "slug": "kost-putri-murah-tasikmadu",
+    "title": "Kost Putri Murah Tasikmadu",
+    "gender": "putri",
+    "priceMonthly": 2000000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. MT. Haryono No. 41, Tasikmadu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9378,112.5759",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Wati",
+      "whatsapp": "6289110912220"
+    },
+    "facilities": [
+      "AC",
+      "Meja Belajar",
+      "Lemari",
+      "Parkir Motor"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 2,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-054",
+    "slug": "kost-strategis-putri-area-ub",
+    "title": "Kost Strategis Putri Area UB",
+    "gender": "putri",
+    "priceMonthly": 950000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kerto Raharjo No. 52, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9196,112.6161",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Suci",
+      "whatsapp": "6287482311595"
+    },
+    "facilities": [
+      "AC",
       "Parkir Motor",
       "Wi-Fi"
     ],
     "images": [
-      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 7,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-055",
+    "slug": "kost-minimalis-dekat-um-mojolangu",
+    "title": "Kost Minimalis Dekat UM Mojolangu",
+    "gender": "campur",
+    "priceMonthly": 2200000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Raya Tlogomas No. 5, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9293,112.6329",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Agus",
+      "whatsapp": "6286065825971"
+    },
+    "facilities": [
+      "Dapur Bersama",
+      "AC",
+      "CCTV"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
       "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
     ],
     "isFeatured": false,
-    "availableRooms": 3,
+    "availableRooms": 10,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-056",
+    "slug": "kost-nyaman-campur-area-uin-2",
+    "title": "Kost Nyaman Campur Area UIN",
+    "gender": "campur",
+    "priceMonthly": 2500000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sunan Kalijaga No. 83, Sumbersari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9296,112.6276",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Wati",
+      "whatsapp": "6285088251540"
+    },
+    "facilities": [
+      "AC",
+      "Wi-Fi",
+      "Dapur Bersama",
+      "Kamar Mandi Dalam",
+      "Parkir Mobil",
+      "Akses 24 Jam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 7,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-057",
+    "slug": "kost-putri-asri-di-raya-tlogomas",
+    "title": "Kost Putri Asri di Raya Tlogomas",
+    "gender": "putri",
+    "priceMonthly": 1000000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Raya Tlogomas No. 75, Tlogomas",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9777,112.5807",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Ratna",
+      "whatsapp": "6287159310998"
+    },
+    "facilities": [
+      "Parkir Motor",
+      "AC",
+      "CCTV",
+      "Meja Belajar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 5,
     "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-058",
+    "slug": "kost-putri-minimalis-mojolangu",
+    "title": "Kost Putri Minimalis Mojolangu",
+    "gender": "putri",
+    "priceMonthly": 1950000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kerto Raharjo No. 66, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9432,112.6435",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Bpk. Hendra",
+      "whatsapp": "6288223984625"
+    },
+    "facilities": [
+      "AC",
+      "CCTV",
+      "Akses 24 Jam",
+      "Parkir Mobil",
+      "Wi-Fi",
+      "Kamar Mandi Dalam"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 5,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-059",
+    "slug": "kost-campur-bersih-dekat-umm-malang",
+    "title": "Kost Campur Bersih Dekat UMM Malang",
+    "gender": "campur",
+    "priceMonthly": 1500000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sigura-gura No. 10, Tlogomas",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9564,112.5967",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Yuni",
+      "whatsapp": "6284739401444"
+    },
+    "facilities": [
+      "Parkir Motor",
+      "AC",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-060",
+    "slug": "kost-campur-strategis-dekat-ub-malang",
+    "title": "Kost Campur Strategis Dekat UB Malang",
+    "gender": "campur",
+    "priceMonthly": 1850000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Raya Tlogomas No. 39, Jatimulyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9419,112.6200",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Wati",
+      "whatsapp": "6280007751748"
+    },
+    "facilities": [
+      "Meja Belajar",
+      "AC",
+      "Wi-Fi",
+      "Akses 24 Jam",
+      "Kamar Mandi Dalam",
+      "Parkir Mobil"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 10,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-061",
+    "slug": "kost-putri-nyaman-mojolangu",
+    "title": "Kost Putri Nyaman Mojolangu",
+    "gender": "putri",
+    "priceMonthly": 1100000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Semarang No. 9, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9227,112.6297",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Lestari",
+      "whatsapp": "6280332612615"
+    },
+    "facilities": [
+      "Parkir Motor",
+      "Wi-Fi",
+      "AC",
+      "Parkir Mobil",
+      "Meja Belajar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 8,
+    "nearCampus": "UMM"
+  },
+  {
+    "id": "kost-062",
+    "slug": "kost-campur-modern-di-candi-panggung",
+    "title": "Kost Campur Modern di Candi Panggung",
+    "gender": "campur",
+    "priceMonthly": 1450000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Candi Panggung No. 5, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9497,112.6327",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Agus",
+      "whatsapp": "6282616168102"
+    },
+    "facilities": [
+      "CCTV",
+      "AC",
+      "Parkir Motor",
+      "Kasur Springbed"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 5,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-063",
+    "slug": "kost-campur-modern-di-kerto-raharjo",
+    "title": "Kost Campur Modern di Kerto Raharjo",
+    "gender": "campur",
+    "priceMonthly": 1250000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kerto Raharjo No. 82, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9850,112.6271",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Ibu Suci",
+      "whatsapp": "6289525328777"
+    },
+    "facilities": [
+      "Kasur Springbed",
+      "Kamar Mandi Dalam",
+      "Wi-Fi",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 3,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-064",
+    "slug": "kost-campur-asri-dinoyo",
+    "title": "Kost Campur Asri Dinoyo",
+    "gender": "campur",
+    "priceMonthly": 1900000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. MT. Haryono No. 52, Dinoyo",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9385,112.5936",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Wahyu",
+      "whatsapp": "6283185447447"
+    },
+    "facilities": [
+      "AC",
+      "Parkir Mobil",
+      "CCTV",
+      "Kasur Springbed"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-065",
+    "slug": "kost-campur-asri-dekat-um-malang",
+    "title": "Kost Campur Asri Dekat UM Malang",
+    "gender": "campur",
+    "priceMonthly": 2500000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Kerto Raharjo No. 6, Penanggungan",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9572,112.6478",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Bpk. Ahmad",
+      "whatsapp": "6286808955520"
+    },
+    "facilities": [
+      "CCTV",
+      "AC",
+      "Parkir Mobil",
+      "Meja Belajar",
+      "Akses 24 Jam",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": true,
+    "availableRooms": 0,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-066",
+    "slug": "kost-putra-bersih-dekat-um-malang",
+    "title": "Kost Putra Bersih Dekat UM Malang",
+    "gender": "putra",
+    "priceMonthly": 1850000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sunan Kalijaga No. 47, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9260,112.5746",
+      "clusterName": "Puri Asthagina"
+    },
+    "owner": {
+      "name": "Ibu Lestari",
+      "whatsapp": "6288333140345"
+    },
+    "facilities": [
+      "AC",
+      "Parkir Mobil",
+      "Dapur Bersama",
+      "Lemari",
+      "Wi-Fi"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "UM"
+  },
+  {
+    "id": "kost-067",
+    "slug": "kost-campur-bersih-dekat-polinema-malang",
+    "title": "Kost Campur Bersih Dekat Polinema Malang",
+    "gender": "campur",
+    "priceMonthly": 1750000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Sigura-gura No. 69, Tunjungsekar",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9412,112.5893",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Bpk. Rudi",
+      "whatsapp": "6282689320026"
+    },
+    "facilities": [
+      "Akses 24 Jam",
+      "Dapur Bersama",
+      "Parkir Mobil",
+      "Wi-Fi",
+      "Parkir Motor"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "POLINEMA"
+  },
+  {
+    "id": "kost-068",
+    "slug": "kost-putri-eksklusif-ketawanggede",
+    "title": "Kost Putri Eksklusif Ketawanggede",
+    "gender": "putri",
+    "priceMonthly": 1450000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. MT. Haryono No. 33, Ketawanggede",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9472,112.5924",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Bpk. Rudi",
+      "whatsapp": "6283143838789"
+    },
+    "facilities": [
+      "Kamar Mandi Dalam",
+      "Kasur Springbed",
+      "Parkir Mobil",
+      "Lemari",
+      "Akses 24 Jam",
+      "Dapur Bersama"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 0,
+    "nearCampus": "UB"
+  },
+  {
+    "id": "kost-069",
+    "slug": "kost-putri-modern-di-gajayana",
+    "title": "Kost Putri Modern di Gajayana",
+    "gender": "putri",
+    "priceMonthly": 2400000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Gajayana No. 27, Mojolangu",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9662,112.6497",
+      "clusterName": "Graha Agung"
+    },
+    "owner": {
+      "name": "Bpk. Dwi",
+      "whatsapp": "6286733206378"
+    },
+    "facilities": [
+      "Kamar Mandi Dalam",
+      "Wi-Fi",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Parkir Mobil",
+      "Lemari"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 2,
+    "nearCampus": "UIN"
+  },
+  {
+    "id": "kost-070",
+    "slug": "kost-strategis-campur-area-uin",
+    "title": "Kost Strategis Campur Area UIN",
+    "gender": "campur",
+    "priceMonthly": 2050000,
+    "location": {
+      "city": "Malang",
+      "address": "Jl. Gajayana No. 15, Sumbersari",
+      "googleMapsUrl": "https://maps.google.com/?q=-7.9644,112.6066",
+      "clusterName": "Myrra Residence"
+    },
+    "owner": {
+      "name": "Ibu Yuni",
+      "whatsapp": "6281552555097"
+    },
+    "facilities": [
+      "Meja Belajar",
+      "CCTV",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Kasur Springbed"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
+    ],
+    "isFeatured": false,
+    "availableRooms": 8,
+    "nearCampus": "UIN"
   }
 ]

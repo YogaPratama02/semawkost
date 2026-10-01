@@ -16,7 +16,7 @@ export default function HomePage() {
     searchQuery: '',
     gender: 'all',
     nearCampus: 'all',
-    facilities: [],
+    clusterName: 'all',
   });
   const [favorites, setFavorites] = useState<string[]>([]);
   const [showMobileFilter, setShowMobileFilter] = useState(false);
@@ -49,12 +49,6 @@ export default function HomePage() {
   const kosts = kostsData as Kost[];
   const filteredKosts = useMemo(() => filterKosts(kosts, filters), [kosts, filters]);
 
-  // Extract unique facilities
-  const availableFacilities = useMemo(() => {
-    const facilitySet = new Set<string>();
-    kosts.forEach((k) => k.facilities.forEach((f) => facilitySet.add(f)));
-    return Array.from(facilitySet).sort();
-  }, [kosts]);
 
   return (
     <PageTransition>
@@ -117,7 +111,6 @@ export default function HomePage() {
               <FilterSidebar
                 filters={filters}
                 onFilterChange={setFilters}
-                availableFacilities={availableFacilities}
               />
           </div>
 
