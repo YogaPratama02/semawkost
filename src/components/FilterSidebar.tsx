@@ -27,7 +27,12 @@ const clusterOptions = [
   { value: 'all', label: 'Semua Perumahan' },
   { value: 'Myrra Residence', label: 'Myrra Residence' },
   { value: 'Puri Asthagina', label: 'Puri Asthagina' },
+  { value: 'Wangsakarta Resort', label: 'Wangsakarta Resort' },
   { value: 'Graha Agung', label: 'Graha Agung' },
+  { value: 'Griya Shanta Eksekutif', label: 'Griya Shanta Eksekutif' },
+  { value: 'Tirto Co-Living', label: 'Tirto Co-Living' },
+  { value: 'Azzahra Residence', label: 'Azzahra Residence' },
+  { value: 'Azzahra Townhouse', label: 'Azzahra Townhouse' },
 ];
 
 export default function FilterSidebar({ filters, onFilterChange }: FilterSidebarProps) {
@@ -124,7 +129,7 @@ export default function FilterSidebar({ filters, onFilterChange }: FilterSidebar
       {/* Cluster Filter */}
       <div>
         <h3 className="mb-3 text-sm font-medium text-slate-500 dark:text-gray-400">Perumahan / Cluster</h3>
-        <div className="flex flex-col gap-1.5">
+        <div className="flex flex-col gap-1.5 max-h-48 overflow-y-auto custom-scrollbar">
           {clusterOptions.map((option) => (
             <button
               key={option.value}
