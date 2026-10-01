@@ -7,6 +7,7 @@ import KostCard from '@/components/KostCard';
 import SearchBar from '@/components/SearchBar';
 import FilterSidebar from '@/components/FilterSidebar';
 import PageTransition from '@/components/PageTransition';
+import USPSection from '@/components/USPSection';
 import kostsData from '@/data/kosts.json';
 
 const FAVORITES_KEY = 'kosthub_favorites';
@@ -87,6 +88,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* USP Section */}
+      <USPSection />
 
       {/* Main content */}
       <section className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
