@@ -8,6 +8,7 @@ import SearchBar from '@/components/SearchBar';
 import FilterSidebar from '@/components/FilterSidebar';
 import PageTransition from '@/components/PageTransition';
 import USPSection from '@/components/USPSection';
+import TestimonialSection from '@/components/TestimonialSection';
 import kostsData from '@/data/kosts.json';
 
 const FAVORITES_KEY = 'kosthub_favorites';
@@ -150,6 +151,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Testimonial Section */}
+      <TestimonialSection />
     </div>
     </PageTransition>
   );
