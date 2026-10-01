@@ -83,20 +83,20 @@ _Dikirim melalui platform SemawKos_`;
   };
 
   const inputBaseClass =
-    'w-full rounded-xl border bg-white px-4 py-3 text-sm text-slate-800 placeholder-slate-400 shadow-sm transition-all focus:outline-none focus:ring-2 dark:bg-gray-800/50 dark:text-white dark:placeholder-gray-500 dark:shadow-none';
+    'w-full rounded-xl border bg-white px-4 py-3 text-sm text-slate-800 placeholder-slate-400 shadow-sm transition-all focus:outline-none focus:ring-2 dark:bg-slate-800/50 dark:text-white dark:placeholder-gray-500 dark:shadow-none';
   const inputNormalBorder =
-    'border-brand-orange/30 focus:border-brand-orange focus:ring-brand-orange/20 dark:border-white/10 dark:focus:border-brand-yellow/50 dark:focus:ring-brand-yellow/20';
+    'border-brand-latte/60 focus:border-brand-peach focus:ring-brand-latte/50 dark:border-white/10 dark:focus:border-brand-latte/50 dark:focus:ring-brand-latte/40';
   const inputErrorBorder =
     'border-rose-400 focus:ring-rose-500/20 dark:border-rose-500 dark:focus:ring-rose-500/20';
 
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <section className="border-b border-brand-orange/20 bg-gradient-to-b from-brand-cream/50 to-white dark:border-white/5 dark:from-gray-950 dark:to-gray-950">
+      <section className="border-b border-brand-latte/50 bg-gradient-to-b from-brand-cream/50 to-white dark:border-white/5 dark:from-slate-950 dark:to-slate-950">
         <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3">
-            <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-brand-yellow/20 dark:bg-brand-yellow/15">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-6 w-6 text-brand-orange dark:text-brand-yellow">
+            <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-brand-latte/40 dark:bg-brand-latte/20">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-6 w-6 text-brand-peach dark:text-brand-latte">
                 <path fillRule="evenodd" d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25ZM12.75 9a.75.75 0 0 0-1.5 0v2.25H9a.75.75 0 0 0 0 1.5h2.25V15a.75.75 0 0 0 1.5 0v-2.25H15a.75.75 0 0 0 0-1.5h-2.25V9Z" clipRule="evenodd" />
               </svg>
             </div>
@@ -114,13 +114,13 @@ _Dikirim melalui platform SemawKos_`;
       <section className="mx-auto max-w-2xl px-4 py-8 sm:px-6 lg:px-8">
         <form onSubmit={handleSubmit} className="space-y-6">
           {/* Info Kost */}
-          <div className="rounded-2xl border border-brand-orange/20 bg-white p-6 shadow-sm dark:border-white/10 dark:bg-gray-900/60 dark:shadow-none dark:backdrop-blur-sm">
+          <div className="rounded-2xl border border-brand-latte/50 bg-white p-6 shadow-sm dark:border-white/10 dark:bg-slate-900/60 dark:shadow-none dark:backdrop-blur-sm">
             <h2 className="mb-5 text-lg font-semibold text-slate-800 dark:text-white">Informasi Kost</h2>
             <div className="space-y-4">
               {/* Nama Kost */}
               <div>
                 <label htmlFor="namaKost" className="mb-1.5 block text-sm font-medium text-slate-700 dark:text-gray-300">
-                  Nama Kost <span className="text-brand-salmon dark:text-brand-salmon">*</span>
+                  Nama Kost <span className="text-brand-peach dark:text-brand-peach">*</span>
                 </label>
                 <input
                   id="namaKost"
@@ -137,7 +137,7 @@ _Dikirim melalui platform SemawKos_`;
               {/* Alamat */}
               <div>
                 <label htmlFor="alamat" className="mb-1.5 block text-sm font-medium text-slate-700 dark:text-gray-300">
-                  Alamat Lengkap <span className="text-brand-salmon dark:text-brand-salmon">*</span>
+                  Alamat Lengkap <span className="text-brand-peach dark:text-brand-peach">*</span>
                 </label>
                 <textarea
                   id="alamat"
@@ -154,7 +154,7 @@ _Dikirim melalui platform SemawKos_`;
               {/* Kota */}
               <div>
                 <label htmlFor="kota" className="mb-1.5 block text-sm font-medium text-slate-700 dark:text-gray-300">
-                  Kota <span className="text-brand-salmon dark:text-brand-salmon">*</span>
+                  Kota <span className="text-brand-peach dark:text-brand-peach">*</span>
                 </label>
                 <input
                   id="kota"
@@ -189,7 +189,7 @@ _Dikirim melalui platform SemawKos_`;
 
                 <div>
                   <label htmlFor="harga" className="mb-1.5 block text-sm font-medium text-slate-700 dark:text-gray-300">
-                    Harga / Bulan (Rp) <span className="text-brand-salmon dark:text-brand-salmon">*</span>
+                    Harga / Bulan (Rp) <span className="text-brand-peach dark:text-brand-peach">*</span>
                   </label>
                   <input
                     id="harga"
@@ -223,12 +223,12 @@ _Dikirim melalui platform SemawKos_`;
           </div>
 
           {/* Info Pemilik */}
-          <div className="rounded-2xl border border-brand-orange/20 bg-white p-6 shadow-sm dark:border-white/10 dark:bg-gray-900/60 dark:shadow-none dark:backdrop-blur-sm">
+          <div className="rounded-2xl border border-brand-latte/50 bg-white p-6 shadow-sm dark:border-white/10 dark:bg-slate-900/60 dark:shadow-none dark:backdrop-blur-sm">
             <h2 className="mb-5 text-lg font-semibold text-slate-800 dark:text-white">Informasi Pemilik</h2>
             <div className="space-y-4">
               <div>
                 <label htmlFor="namaPemilik" className="mb-1.5 block text-sm font-medium text-slate-700 dark:text-gray-300">
-                  Nama Pemilik <span className="text-brand-salmon dark:text-brand-salmon">*</span>
+                  Nama Pemilik <span className="text-brand-peach dark:text-brand-peach">*</span>
                 </label>
                 <input
                   id="namaPemilik"
@@ -244,7 +244,7 @@ _Dikirim melalui platform SemawKos_`;
 
               <div>
                 <label htmlFor="whatsapp" className="mb-1.5 block text-sm font-medium text-slate-700 dark:text-gray-300">
-                  Nomor WhatsApp <span className="text-brand-salmon dark:text-brand-salmon">*</span>
+                  Nomor WhatsApp <span className="text-brand-peach dark:text-brand-peach">*</span>
                 </label>
                 <input
                   id="whatsapp"
@@ -261,14 +261,14 @@ _Dikirim melalui platform SemawKos_`;
           </div>
 
           {/* Info Disclaimer */}
-          <div className="rounded-xl border border-brand-orange/25 bg-brand-orange/5 p-4 dark:border-brand-orange/20 dark:bg-brand-orange/5">
+          <div className="rounded-xl border border-brand-latte/50 bg-brand-latte/10 p-4 dark:border-brand-latte/50 dark:bg-brand-latte/10">
             <div className="flex gap-3">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="mt-0.5 h-5 w-5 shrink-0 text-brand-orange dark:text-brand-orange">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="mt-0.5 h-5 w-5 shrink-0 text-brand-peach dark:text-brand-peach">
                 <path fillRule="evenodd" d="M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0Zm-7-4a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM9 9a.75.75 0 0 0 0 1.5h.253a.25.25 0 0 1 .244.304l-.459 2.066A1.75 1.75 0 0 0 10.747 15H11a.75.75 0 0 0 0-1.5h-.253a.25.25 0 0 1-.244-.304l.459-2.066A1.75 1.75 0 0 0 9.253 9H9Z" clipRule="evenodd" />
               </svg>
               <div>
-                <p className="text-sm font-medium text-brand-orange dark:text-brand-orange">Cara Kerja</p>
-                <p className="mt-1 text-xs text-brand-orange/70 dark:text-brand-orange/60">
+                <p className="text-sm font-medium text-brand-peach dark:text-brand-peach">Cara Kerja</p>
+                <p className="mt-1 text-xs text-brand-peach/70 dark:text-brand-peach/60">
                   Setelah klik &quot;Kirim&quot;, Anda akan diarahkan ke WhatsApp Admin dengan pesan
                   berformat data kost otomatis. Admin akan memproses dan menambahkan kost Anda ke platform.
                 </p>
@@ -279,7 +279,7 @@ _Dikirim melalui platform SemawKos_`;
           {/* Submit */}
           <button
             type="submit"
-            className="flex w-full items-center justify-center gap-2.5 rounded-xl bg-brand-salmon px-6 py-4 text-base font-semibold text-white shadow-lg shadow-brand-salmon/20 transition-all hover:shadow-brand-salmon/30 hover:brightness-110"
+            className="flex w-full items-center justify-center gap-2.5 rounded-xl bg-brand-peach px-6 py-4 text-base font-semibold text-white shadow-lg shadow-brand-peach/20 transition-all hover:shadow-brand-peach/30 hover:brightness-110"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5">
               <path d="M12 2C6.477 2 2 6.477 2 12c0 1.82.487 3.53 1.338 5.005L2 22l5.233-1.237A9.953 9.953 0 0 0 12 22c5.523 0 10-4.477 10-10S17.523 2 12 2Zm-1.2 14.5a7.12 7.12 0 0 1-3.6-1l-.25-.15-2.6.68.7-2.55-.16-.26a7.06 7.06 0 0 1-1.1-3.82c0-3.92 3.2-7.12 7.12-7.12 1.9 0 3.68.74 5.02 2.08a7.07 7.07 0 0 1 2.08 5.04c0 3.92-3.18 7.1-7.1 7.1h-.01Zm3.9-5.32c-.21-.11-1.26-.62-1.46-.69-.2-.07-.34-.11-.48.11-.14.21-.55.69-.67.83-.12.14-.25.16-.46.05a5.8 5.8 0 0 1-1.71-1.06 6.41 6.41 0 0 1-1.18-1.47c-.12-.21-.01-.33.09-.43.1-.1.21-.26.32-.39.11-.14.14-.23.21-.39.07-.14.04-.28-.02-.39-.07-.11-.48-1.14-.65-1.56-.17-.41-.35-.36-.48-.36h-.41a.79.79 0 0 0-.57.27c-.2.21-.74.73-.74 1.77s.76 2.05.86 2.19c.11.14 1.5 2.29 3.63 3.21.51.22.9.35 1.21.45.51.16.97.14 1.34.08.41-.06 1.26-.51 1.44-1.01.18-.5.18-.92.12-1.01-.05-.09-.2-.14-.41-.25Z" />
