@@ -14,7 +14,7 @@ interface FormData {
   whatsapp: string;
 }
 
-const ADMIN_WHATSAPP = '6281234567890';
+const ADMIN_WHATSAPP = '6281311570549';
 
 export default function PasangIklanPage() {
   const [form, setForm] = useState<FormData>({
@@ -55,7 +55,9 @@ export default function PasangIklanPage() {
       campur: 'Campur',
     };
 
-    const message = `📋 *PENGAJUAN KOST BARU - SemawKos*
+    const message = `Halo Admin, saya ingin bertanya mengenai pemasangan iklan kost di website ini. Berikut detailnya:
+
+📋 *PENGAJUAN KOST BARU - SemawKos*
 
 🏠 *Nama Kost:* ${form.namaKost}
 📍 *Alamat:* ${form.alamat}, ${form.kota}
@@ -279,7 +281,7 @@ _Dikirim melalui platform SemawKos_`;
           {/* Submit */}
           <button
             type="submit"
-            className="flex w-full items-center justify-center gap-2.5 rounded-xl bg-brand-peach px-6 py-4 text-base font-semibold text-white shadow-lg shadow-brand-peach/20 transition-all hover:shadow-brand-peach/30 hover:brightness-110"
+            className="flex w-full items-center justify-center gap-2.5 rounded-xl bg-brand-peach px-6 py-4 text-base font-semibold text-slate-900 shadow-lg shadow-brand-peach/20 transition-all hover:shadow-brand-peach/30 hover:brightness-110"
           >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-5 w-5">
               <path d="M12 2C6.477 2 2 6.477 2 12c0 1.82.487 3.53 1.338 5.005L2 22l5.233-1.237A9.953 9.953 0 0 0 12 22c5.523 0 10-4.477 10-10S17.523 2 12 2Zm-1.2 14.5a7.12 7.12 0 0 1-3.6-1l-.25-.15-2.6.68.7-2.55-.16-.26a7.06 7.06 0 0 1-1.1-3.82c0-3.92 3.2-7.12 7.12-7.12 1.9 0 3.68.74 5.02 2.08a7.07 7.07 0 0 1 2.08 5.04c0 3.92-3.18 7.1-7.1 7.1h-.01Zm3.9-5.32c-.21-.11-1.26-.62-1.46-.69-.2-.07-.34-.11-.48.11-.14.21-.55.69-.67.83-.12.14-.25.16-.46.05a5.8 5.8 0 0 1-1.71-1.06 6.41 6.41 0 0 1-1.18-1.47c-.12-.21-.01-.33.09-.43.1-.1.21-.26.32-.39.11-.14.14-.23.21-.39.07-.14.04-.28-.02-.39-.07-.11-.48-1.14-.65-1.56-.17-.41-.35-.36-.48-.36h-.41a.79.79 0 0 0-.57.27c-.2.21-.74.73-.74 1.77s.76 2.05.86 2.19c.11.14 1.5 2.29 3.63 3.21.51.22.9.35 1.21.45.51.16.97.14 1.34.08.41-.06 1.26-.51 1.44-1.01.18-.5.18-.92.12-1.01-.05-.09-.2-.14-.41-.25Z" />
