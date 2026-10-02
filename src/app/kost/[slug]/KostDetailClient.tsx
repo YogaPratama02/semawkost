@@ -81,16 +81,14 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
   return (
     <div className="min-h-screen">
       {/* Breadcrumb */}
-      <div className="border-b border-brand-latte/60 bg-white dark:border-white/5 dark:bg-slate-950">
-        <div className="mx-auto max-w-7xl px-4 py-3 sm:px-6 lg:px-8">
-          <nav className="flex items-center gap-2 text-sm text-slate-500 dark:text-gray-500">
-            <Link href="/" className="transition-colors hover:text-brand-peach dark:hover:text-brand-peach">Beranda</Link>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4">
-              <path fillRule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clipRule="evenodd" />
-            </svg>
-            <span className="text-slate-800 dark:text-gray-300">{kost.title}</span>
-          </nav>
-        </div>
+      <div className="mx-auto max-w-7xl px-4 md:px-8 mb-6">
+        <nav className="flex items-center gap-2 text-sm text-slate-500 dark:text-gray-500">
+          <Link href="/" className="transition-colors hover:text-brand-peach dark:hover:text-brand-peach">Beranda</Link>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4">
+            <path fillRule="evenodd" d="M8.22 5.22a.75.75 0 0 1 1.06 0l4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.75.75 0 0 1-1.06-1.06L11.94 10 8.22 6.28a.75.75 0 0 1 0-1.06Z" clipRule="evenodd" />
+          </svg>
+          <span className="text-brand-peach font-semibold">{kost.title}</span>
+        </nav>
       </div>
 
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">

@@ -49,7 +49,7 @@ export default function FavoritPage() {
   }
 
   return (
-    <div className="min-h-screen">
+    <main className="min-h-screen pt-24 pb-20">
       {/* Header */}
       <section className="border-b border-brand-orange/20 bg-gradient-to-b from-brand-salmon/10 to-white dark:border-white/5 dark:from-brand-salmon/5 dark:to-gray-950">
         <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
@@ -74,7 +74,7 @@ export default function FavoritPage() {
       {/* Content */}
       <section className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         {favoritedKosts.length > 0 ? (
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             {favoritedKosts.map((kost) => (
               <KostCard
                 key={kost.id}
@@ -102,6 +102,6 @@ export default function FavoritPage() {
           </div>
         )}
       </section>
-    </div>
+    </main>
   );
 }

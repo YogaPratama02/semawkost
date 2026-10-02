@@ -42,5 +42,11 @@ export default async function KostDetailPage({
     notFound();
   }
 
-  return <PageTransition><KostDetailClient kost={kost} /></PageTransition>;
+  return (
+    <main className="pt-24">
+      <PageTransition>
+        <KostDetailClient kost={kost} />
+      </PageTransition>
+    </main>
+  );
 }
