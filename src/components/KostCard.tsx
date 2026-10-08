@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Kost } from '@/types/kost';
@@ -47,20 +47,34 @@ function RoomBadge({ availableRooms }: { availableRooms: number }) {
 
 export default function KostCard({ kost, isFavorited, onToggleFavorite }: KostCardProps) {
   const [imgIndex, setImgIndex] = useState(0);
+  const scrollRef = useRef<HTMLDivElement>(null);
   const badge = genderConfig[kost.gender];
 
   return (
     <div className="group relative flex flex-col overflow-hidden rounded-2xl border border-brand-latte/50 bg-white shadow-[0_4px_20px_-4px_rgba(0,0,0,0.05)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_30px_-4px_rgba(0,0,0,0.1)] dark:border-white/10 dark:bg-slate-900 dark:shadow-xl dark:shadow-black/20">
-      {/* Image Carousel */}
+      {/* Image Carousel Wrapper */}
       <div className="relative aspect-[4/3] w-full overflow-hidden bg-brand-latte/30 dark:bg-slate-800">
-        <Image
-          src={kost.images[imgIndex]}
-          alt={kost.title}
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-          className="object-cover transition-transform duration-500 group-hover:scale-105"
-          unoptimized
-        />
+        <div 
+          ref={scrollRef}
+          onScroll={(e) => {
+            const width = e.currentTarget.clientWidth;
+            const index = Math.round(e.currentTarget.scrollLeft / width);
+            if (index !== imgIndex) setImgIndex(index);
+          }}
+          className="flex h-full w-full overflow-x-auto snap-x snap-mandatory scrollbar-hide touch-pan-x"
+        >
+          {kost.images.map((img, i) => (
+            <Image
+              key={i}
+              src={img}
+              alt={`${kost.title} - ${i + 1}`}
+              fill
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+              className="object-cover transition-transform duration-500 group-hover:scale-105 shrink-0 snap-center !relative !w-full !h-full"
+              unoptimized
+            />
+          ))}
+        </div>
 
         {/* Carousel dots */}
         {kost.images.length > 1 && (
@@ -70,7 +84,10 @@ export default function KostCard({ kost, isFavorited, onToggleFavorite }: KostCa
                 key={i}
                 onClick={(e) => {
                   e.preventDefault();
-                  setImgIndex(i);
+                  if (scrollRef.current) {
+                    const width = scrollRef.current.clientWidth;
+                    scrollRef.current.scrollTo({ left: width * i, behavior: 'smooth' });
+                  }
                 }}
                 className={`h-2 rounded-full transition-all ${
                   i === imgIndex ? 'w-6 bg-white' : 'w-2 bg-white/50 hover:bg-white/80'
@@ -87,7 +104,11 @@ export default function KostCard({ kost, isFavorited, onToggleFavorite }: KostCa
             <button
               onClick={(e) => {
                 e.preventDefault();
-                setImgIndex((prev) => (prev === 0 ? kost.images.length - 1 : prev - 1));
+                if (scrollRef.current) {
+                  const width = scrollRef.current.clientWidth;
+                  const prev = imgIndex === 0 ? kost.images.length - 1 : imgIndex - 1;
+                  scrollRef.current.scrollTo({ left: width * prev, behavior: 'smooth' });
+                }
               }}
               className="absolute left-2 top-1/2 -translate-y-1/2 rounded-full bg-black/40 p-1.5 text-white opacity-0 backdrop-blur-sm transition-opacity group-hover:opacity-100 hover:bg-black/60"
               aria-label="Foto sebelumnya"
@@ -99,7 +120,11 @@ export default function KostCard({ kost, isFavorited, onToggleFavorite }: KostCa
             <button
               onClick={(e) => {
                 e.preventDefault();
-                setImgIndex((prev) => (prev === kost.images.length - 1 ? 0 : prev + 1));
+                if (scrollRef.current) {
+                  const width = scrollRef.current.clientWidth;
+                  const next = imgIndex === kost.images.length - 1 ? 0 : imgIndex + 1;
+                  scrollRef.current.scrollTo({ left: width * next, behavior: 'smooth' });
+                }
               }}
               className="absolute right-2 top-1/2 -translate-y-1/2 rounded-full bg-black/40 p-1.5 text-white opacity-0 backdrop-blur-sm transition-opacity group-hover:opacity-100 hover:bg-black/60"
               aria-label="Foto berikutnya"
