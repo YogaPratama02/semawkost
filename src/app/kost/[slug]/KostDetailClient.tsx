@@ -138,12 +138,12 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
             </div>
 
             {/* Thumbnails */}
-            <div className="flex gap-2 overflow-x-auto pb-2">
+            <div className="flex overflow-x-auto gap-4 pb-2 snap-x snap-mandatory scrollbar-hide">
               {kost.images.map((img, i) => (
                 <button
                   key={i}
                   onClick={() => setActiveImage(i)}
-                  className={`relative h-20 w-28 shrink-0 overflow-hidden rounded-xl transition-all ${
+                  className={`flex-shrink-0 w-32 h-24 snap-center relative rounded-xl overflow-hidden cursor-pointer transition-all ${
                     i === activeImage
                       ? 'ring-2 ring-brand-peach ring-offset-2 ring-offset-brand-cream dark:ring-offset-slate-950'
                       : 'opacity-60 hover:opacity-100'

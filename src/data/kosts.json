@@ -1,30 +1,42 @@
 [
   {
     "id": "kost-001",
-    "slug": "kost-putri-nyaman-dekat-uin-malang",
-    "title": "Kost Putri Nyaman Dekat UIN Malang",
+    "slug": "kost-putra-bale",
+    "title": "Kost Putra Bale",
     "gender": "putri",
-    "priceMonthly": 850000,
+    "priceMonthly": 1400000,
     "location": {
       "city": "Malang",
-      "address": "Jl. Raya Dieng No. 66, Tunjungsekar",
-      "googleMapsUrl": "https://maps.google.com/?q=-7.9604,112.6182",
-      "clusterName": "Myrra Residence"
+      "address": "Jl. Chili Jl. Perum Joyo Grand, Merjosari, Kec. Lowokwaru",
+      "googleMapsUrl": "https://maps.app.goo.gl/AnT3wNcDJ88BbMHL6",
+      "clusterName": "Graha Agung"
     },
     "owner": {
-      "name": "Ibu Nur",
+      "name": "Ibu Iluk",
       "whatsapp": "6281311570549"
     },
     "facilities": [
-      "Wi-Fi",
-      "AC",
+      "Full Furnished",
+      "Spring Bed 100 x 200",
+      "Bantal",
+      "Smart TV",
       "Kamar Mandi Dalam",
-      "Parkir Motor"
+      "Water Heater",
+      "Exhaust Fan",
+      "Shower",
+      "Toilet Duduk"
     ],
     "images": [
-      "https://i.ibb.co.com/s9b6Y2R4/WEBSITE.png",
-      "https://i.ibb.co.com/S83ZwDW/WEBSITE-1.png",
-      "https://i.ibb.co.com/fP1pMpm/WEBSITE-2.png"
+      "https://i.ibb.co.com/TMCKd54y/Bale.png",
+      "https://i.ibb.co.com/hxqtq1Mp/Bed.png",
+      "https://i.ibb.co.com/jvK8Cwxr/Springbed.png",
+      "https://i.ibb.co.com/N2PPH4qS/Furnish.png",
+      "https://i.ibb.co.com/TqrHqSkb/Toilet.png",
+      "https://i.ibb.co.com/jZWczZHn/Smart-TV-AC.png",
+      "https://i.ibb.co.com/d0Wtg162/Kitchen.png",
+      "https://i.ibb.co.com/39jMv4GK/Koridor.png",
+      "https://i.ibb.co.com/RkhW3bGm/Balkon.png",
+      "https://i.ibb.co.com/KxjKrv93/Mesjid.png"
     ],
     "isFeatured": false,
     "availableRooms": 2,
