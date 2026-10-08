@@ -79,7 +79,7 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
   const isRoomFull = kost.availableRooms === 0;
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen overflow-x-hidden w-full max-w-full">
       {/* Breadcrumb */}
       <div className="mx-auto max-w-7xl px-4 md:px-8 mb-6">
         <nav className="flex items-center gap-2 text-sm text-slate-500 dark:text-gray-500">
@@ -94,9 +94,9 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
         <div className="grid gap-8 lg:grid-cols-5">
           {/* Left: Gallery */}
-          <div className="lg:col-span-3">
+          <div className="lg:col-span-3 w-full max-w-full overflow-hidden">
             {/* Main Image */}
-            <div className="relative mb-3 aspect-[16/10] overflow-hidden rounded-2xl bg-brand-latte/30 dark:bg-slate-800">
+            <div className="relative mb-3 w-full aspect-video overflow-hidden rounded-2xl bg-brand-latte/30 dark:bg-slate-800">
               <Image
                 src={kost.images[activeImage]}
                 alt={`${kost.title} - foto ${activeImage + 1}`}
@@ -138,12 +138,12 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
             </div>
 
             {/* Thumbnails */}
-            <div className="flex overflow-x-auto gap-4 pb-2 snap-x snap-mandatory scrollbar-hide">
+            <div className="flex w-full overflow-x-auto gap-2 md:gap-4 pb-2 snap-x snap-mandatory scrollbar-hide">
               {kost.images.map((img, i) => (
                 <button
                   key={i}
                   onClick={() => setActiveImage(i)}
-                  className={`flex-shrink-0 w-32 h-24 snap-center relative rounded-xl overflow-hidden cursor-pointer transition-all ${
+                  className={`flex-shrink-0 w-20 h-16 md:w-32 md:h-24 snap-center relative rounded-lg md:rounded-xl overflow-hidden cursor-pointer transition-all ${
                     i === activeImage
                       ? 'ring-2 ring-brand-peach ring-offset-2 ring-offset-brand-cream dark:ring-offset-slate-950'
                       : 'opacity-60 hover:opacity-100'
