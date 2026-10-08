@@ -53,13 +53,12 @@ export default function KostCard({ kost, isFavorited, onToggleFavorite }: KostCa
     <div className="group relative flex flex-col overflow-hidden rounded-2xl border border-brand-latte/50 bg-white shadow-[0_4px_20px_-4px_rgba(0,0,0,0.05)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_30px_-4px_rgba(0,0,0,0.1)] dark:border-white/10 dark:bg-slate-900 dark:shadow-xl dark:shadow-black/20">
       {/* Image Carousel */}
       <div className="relative aspect-[4/3] w-full overflow-hidden bg-brand-latte/30 dark:bg-slate-800">
-        <Image
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
           src={kost.images[imgIndex]}
           alt={kost.title}
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-          className="object-cover transition-transform duration-500 group-hover:scale-105"
-          unoptimized
+          loading="lazy"
+          className="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105"
         />
 
         {/* Carousel dots */}
