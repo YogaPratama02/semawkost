@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Kost } from '@/types/kost';
@@ -37,6 +37,11 @@ const campusFullNames: Record<string, string> = {
 export default function KostDetailClient({ kost }: { kost: Kost }) {
   const [activeImage, setActiveImage] = useState(0);
   const [isFavorited, setIsFavorited] = useState(false);
+  const thumbnailRefs = useRef<(HTMLButtonElement | null)[]>([]);
+
+  useEffect(() => {
+    thumbnailRefs.current[activeImage]?.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+  }, [activeImage]);
 
   useEffect(() => {
     try {
@@ -142,6 +147,7 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
               {kost.images.map((img, i) => (
                 <button
                   key={i}
+                  ref={(el) => { thumbnailRefs.current[i] = el; }}
                   onClick={() => setActiveImage(i)}
                   className={`flex-shrink-0 w-20 h-16 md:w-32 md:h-24 snap-center relative rounded-lg md:rounded-xl overflow-hidden cursor-pointer transition-all ${
                     i === activeImage
