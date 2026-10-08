@@ -97,12 +97,14 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
           <div className="lg:col-span-3">
             {/* Main Image */}
             <div className="relative mb-3 aspect-[16/10] overflow-hidden rounded-2xl bg-brand-latte/30 dark:bg-slate-800">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
+              <Image
                 src={kost.images[activeImage]}
                 alt={`${kost.title} - foto ${activeImage + 1}`}
-                loading="lazy"
-                className="object-cover w-full h-full"
+                fill
+                sizes="(max-width: 1024px) 100vw, 60vw"
+                className="object-cover"
+                priority
+                unoptimized
               />
 
               {/* Nav arrows */}
@@ -147,12 +149,13 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
                       : 'opacity-60 hover:opacity-100'
                   }`}
                 >
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
+                  <Image
                     src={img}
                     alt={`Thumbnail ${i + 1}`}
-                    loading="lazy"
-                    className="object-cover w-full h-full"
+                    fill
+                    sizes="112px"
+                    className="object-cover"
+                    unoptimized
                   />
                 </button>
               ))}
