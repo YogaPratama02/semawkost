@@ -101,13 +101,13 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
           {/* Left: Gallery */}
           <div className="lg:col-span-3 w-full max-w-full overflow-hidden">
             {/* Main Image */}
-            <div className="relative mb-3 w-full aspect-video overflow-hidden rounded-2xl bg-brand-latte/30 dark:bg-slate-800">
+            <div className="relative mb-3 w-full aspect-[4/3] sm:aspect-video overflow-hidden rounded-2xl bg-brand-latte/30 dark:bg-slate-800">
               <Image
                 src={kost.images[activeImage]}
                 alt={`${kost.title} - foto ${activeImage + 1}`}
                 fill
                 sizes="(max-width: 1024px) 100vw, 60vw"
-                className="object-cover"
+                className="object-cover w-full h-full"
                 priority
                 unoptimized
               />
