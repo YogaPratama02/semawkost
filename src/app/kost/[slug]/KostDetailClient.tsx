@@ -143,7 +143,7 @@ export default function KostDetailClient({ kost }: { kost: Kost }) {
             </div>
 
             {/* Thumbnails */}
-            <div className="flex w-full overflow-x-auto gap-2 md:gap-4 pb-2 snap-x snap-mandatory scrollbar-hide">
+            <div className="flex w-full overflow-x-auto gap-2 md:gap-4 py-2 mt-2 snap-x snap-mandatory scrollbar-hide">
               {kost.images.map((img, i) => (
                 <button
                   key={i}
