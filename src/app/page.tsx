@@ -57,13 +57,45 @@ export default function HomePage() {
     <div className="min-h-screen">
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-brand-latte/60 bg-gradient-to-b from-brand-cream via-brand-cream to-white dark:border-white/5 dark:from-slate-950 dark:via-slate-950 dark:to-slate-950">
-        {/* Background effects */}
-        <div className="absolute inset-0 -z-10">
+        {/* Background effects & Animations */}
+        <div className="absolute inset-0 z-0 overflow-hidden pointer-events-none w-full h-full min-h-[350px] md:min-h-[450px]">
+          <style>{`
+            @keyframes float {
+              0%, 100% { transform: translateY(0) rotate(-15deg); }
+              50% { transform: translateY(-15px) rotate(-5deg); }
+            }
+          `}</style>
+          
           <div className="absolute left-1/4 top-0 h-96 w-96 rounded-full bg-brand-peach/15 blur-3xl dark:bg-brand-peach/5" />
           <div className="absolute right-1/4 top-20 h-80 w-80 rounded-full bg-brand-sky/20 blur-3xl dark:bg-brand-sky/5" />
+
+          {/* Stars */}
+          <svg className="absolute top-[15%] left-[6%] w-6 h-6 text-brand-sky animate-pulse scale-75 opacity-20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
+          </svg>
+          <svg className="absolute top-[18%] right-[8%] w-5 h-5 text-brand-peach animate-pulse opacity-30 delay-100" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
+          </svg>
+          <svg className="absolute bottom-[25%] left-[10%] w-5 h-5 text-brand-sky animate-pulse opacity-25 delay-200" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
+          </svg>
+          <svg className="absolute bottom-[30%] right-[12%] w-6 h-6 text-brand-peach animate-pulse scale-110 opacity-35 delay-300" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" />
+          </svg>
+
+          {/* Paper Plane & Trail */}
+          <div className="absolute top-[25%] md:top-[20%] left-[8%] md:left-[12%]" style={{ animation: 'float 6s ease-in-out infinite' }}>
+            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-orange-400 drop-shadow-md">
+              <path d="m22 2-7 20-4-9-9-4Z" />
+              <path d="M22 2 11 13" />
+            </svg>
+            <svg className="absolute top-8 -left-16 w-20 h-16 -rotate-12" viewBox="0 0 100 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M0,50 Q25,25 100,0" stroke="currentColor" strokeWidth="2" strokeDasharray="4 4" className="text-orange-500/20 dark:text-slate-400/10" />
+            </svg>
+          </div>
         </div>
 
-        <div className="mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-20 lg:px-8 lg:py-24">
+        <div className="relative z-10 mx-auto max-w-7xl px-4 py-16 sm:px-6 sm:py-20 lg:px-8 lg:py-24">
           <div className="mx-auto max-w-3xl text-center">
             <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-brand-sky/40 px-4 py-1.5 text-sm font-medium text-slate-700 ring-1 ring-brand-sky/60 dark:bg-brand-sky/10 dark:text-brand-sky dark:ring-brand-sky/20">
               <span className="h-2 w-2 rounded-full bg-brand-peach animate-pulse dark:bg-brand-peach" />

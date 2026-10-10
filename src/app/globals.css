@@ -7,6 +7,38 @@
   --color-brand-latte: #FFDDB0;
   --color-brand-cream: #FFFCE1;
   --color-brand-sky: #CFEBFF;
+
+  --animate-fly: fly 15s linear infinite;
+  --animate-twinkle: twinkle 3s ease-in-out infinite;
+}
+
+@keyframes fly {
+  0% {
+    transform: translate(-10vw, 10vh) rotate(15deg);
+  }
+  25% {
+    transform: translate(25vw, -5vh) rotate(-5deg);
+  }
+  50% {
+    transform: translate(50vw, 10vh) rotate(10deg);
+  }
+  75% {
+    transform: translate(75vw, -10vh) rotate(-15deg);
+  }
+  100% {
+    transform: translate(110vw, 5vh) rotate(5deg);
+  }
+}
+
+@keyframes twinkle {
+  0%, 100% {
+    opacity: 0.2;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
 }
 
 :root {
