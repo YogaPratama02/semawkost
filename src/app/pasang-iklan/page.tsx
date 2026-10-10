@@ -92,7 +92,7 @@ _Dikirim melalui platform SemawKos_`;
     'border-rose-400 focus:ring-rose-500/20 dark:border-rose-500 dark:focus:ring-rose-500/20';
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen pt-24 md:pt-28">
       {/* Header */}
       <section className="border-b border-brand-latte/50 bg-gradient-to-b from-brand-cream/50 to-white dark:border-white/5 dark:from-slate-950 dark:to-slate-950">
         <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
